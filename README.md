@@ -4,8 +4,8 @@ Script to import Open Data Zurich fountains into wikidata without overwriting ex
 The project is open source under the GNU Affero General Public License, with a profit contribution agreement applying under restricted conditions. See [COPYING](/COPYING) for information.
 
 ## Requirements
-- Python 3
-- Jupyter
+- Python 3.3 or higher (https://www.python.org/downloads/release/python-365/)
+- Jupyter (http://jupyter.org/install)
 - all packages mentioned in the import lines of the Jupyter notebook `zurich_fountains_preprocess.ipynb` (use `pip install [package name]` to install)
 
 ## How to run
@@ -18,3 +18,6 @@ The project is open source under the GNU Affero General Public License, with a p
 - Go to `https://tools.wmflabs.org/wikidata-todo/quick_statements.php`.
 - Authenticate yourself with your Wikidata account.
 - Copy and paste the contents of `quickstatement_commands.txt` into the blank field, and run the commands
+
+## Contributions welcome
+The WVZ (https://www.wikidata.org/wiki/Q53629101) does not have all that many changes in its base data. Nonetheless does it make sense to cross-check their master-data-set with what is in WikiData.
