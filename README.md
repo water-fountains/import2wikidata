@@ -3,6 +3,9 @@ Script to import Open Data Zurich fountains into wikidata without overwriting ex
 
 The project is open source under the GNU Affero General Public License, with a profit contribution agreement applying under restricted conditions. See [COPYING](/COPYING) for information.
 
+## Process diagram
+![import to wikidata flowchart](https://www.lucidchart.com/publicSegments/view/b253a72e-e909-4505-8d23-69841a54e358/image.png)
+
 ## Requirements
 - Python 3.3 or higher (https://www.python.org/downloads/release/python-365/)
 - Jupyter (http://jupyter.org/install)
