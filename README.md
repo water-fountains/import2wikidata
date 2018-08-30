@@ -13,7 +13,7 @@ The project is open source under the GNU Affero General Public License, with a p
 
 ## How to run
 - Clone this repository to your local machine `git clone https://github.com/mmmatthew/import2wikidata.git`
-- Start jupyter from a command window in the directory just created `jupyter notebook'
+- Start jupyter from a command window in the directory just created `jupyter notebook`
 - In your browser, open `http://localhost:8888/notebooks/zurich_fountains_preprocess.ipynb` (the port may be different)
 - Run the script. It should create a file `quickstatement_commands.txt`
 
@@ -26,9 +26,15 @@ The project is open source under the GNU Affero General Public License, with a p
 Open Data Zurich fountain properties are mapped to the following wikidata properties
 - bezeichnung -> Lde
 - brunnenart_txt -> P31
-- wasserart_txt -> No property exists yet (under review @https://www.wikidata.org/wiki/Wikidata:Property_proposal/type_of_water)
+- wasserart_txt -> P5623
 - nummer -> P528
 - historisches_baujahr -> P571
+
+Type of water can take several values
+- Verteilnetz -> Q53633635
+- Quelwasser -> Q1881858
+- Eigene Versorgung -> Q53634173
+- Grundwasser -> Q161598
 
 ## Contributions welcome
 Check the project issues to find out where the current dev focus is.
