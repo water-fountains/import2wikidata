@@ -32,7 +32,7 @@ Open Data Zurich fountain properties are mapped to the following wikidata proper
 
 Type of water can take several values
 - Verteilnetz -> Q53633635
-- Quelwasser -> Q1881858
+- Quellwasser -> Q1881858
 - Eigene Versorgung -> Q53634173
 - Grundwasser -> Q161598
 
