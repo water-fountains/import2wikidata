@@ -7,7 +7,7 @@ The project is open source under the GNU Affero General Public License, with a p
 ![import to wikidata flowchart](https://www.lucidchart.com/publicSegments/view/b253a72e-e909-4505-8d23-69841a54e358/image.png)
 
 ## Requirements
-- Python 3.3 or higher (https://www.python.org/downloads/release/python-365/)
+- Python 3.3 or higher (https://www.python.org/downloads/release/python-365/) make sure, it is added to your path
 - Jupyter (http://jupyter.org/install)
 - all packages mentioned in the import lines of the Jupyter notebook `zurich_fountains_preprocess.ipynb` (use `pip install [package name]` to install)
 
@@ -38,3 +38,5 @@ Type of water can take several values
 
 ## Contributions welcome
 Check the project issues to find out where the current dev focus is.
+
+See also https://github.com/water-fountains/import2wikidata/wiki
