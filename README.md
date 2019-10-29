@@ -10,6 +10,7 @@ The project is open source under the GNU Affero General Public License, with a p
 - Python 3.3 or higher (https://www.python.org/downloads/release/python-365/) make sure, it is added to your path
 - Jupyter (http://jupyter.org/install)
 - all packages mentioned in the import lines of the Jupyter notebook `zurich_fountains_preprocess.ipynb` (use `pip install [package name]` to install)
+    - gastrodon , pandas
 
 ## How to run
 - Clone this repository to your local machine `git clone https://github.com/mmmatthew/import2wikidata.git`
