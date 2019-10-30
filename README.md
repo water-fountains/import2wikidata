@@ -17,7 +17,7 @@ The project is open source under the GNU Affero General Public License, with a p
 - Clone this repository to your local machine `git clone https://github.com/mmmatthew/import2wikidata.git`
 - Start jupyter from a command window in the directory just created `jupyter notebook`
 - In your browser, open `http://localhost:8888/notebooks/zurich_fountains_preprocess.ipynb` (the port may be different)
-- Run the script. It should create a file `quickstatement_commands.txt`
+- Run the script. It should create a file `quickstatement_commands*.txt`
 
 ## How to use the generated commands
 - Go to `https://tools.wmflabs.org/wikidata-todo/quick_statements.php`.
