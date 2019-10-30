@@ -8,6 +8,7 @@ The project is open source under the GNU Affero General Public License, with a p
 
 ## Requirements
 - Python 3.3 or higher (https://www.python.org/downloads/release/python-365/) make sure, it is added to your path
+    - v3.65 works ; most other were very troublesome as per https://github.com/water-fountains/import2wikidata/wiki/Trouble-Shooting  (v3.53 on debian9 problematic with gastrodon; on win v3.8 with asyncio and win32api DLL, v3.7 with 'GenericMeta' from 'typing')
 - Jupyter (http://jupyter.org/install)
 - all packages mentioned in the import lines of the Jupyter notebook `zurich_fountains_preprocess.ipynb` (use `pip install [package name]` to install - in debian rather 'pip3')
     - gastrodon , pandas
