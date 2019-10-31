@@ -47,3 +47,6 @@ Type of water can take several values
 Check the project issues to find out where the current dev focus is.
 
 See also https://github.com/water-fountains/import2wikidata/wiki
+
+#### See also
+https://github.com/opendatabs/csvtowikidata
