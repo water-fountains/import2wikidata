@@ -22,7 +22,10 @@ The project is open source under the GNU Affero General Public License, with a p
 ## How to use the generated commands
 - Go to `https://tools.wmflabs.org/wikidata-todo/quick_statements.php`.
 - Authenticate yourself with your Wikidata account.
-- Copy and paste the contents of `quickstatement_commands.txt` into the blank field, and run the commands
+- Copy and paste the contents of `quickstatement_commands*.txt` into the blank field, and run the commands
+    - if the wmflabs is slow, do not re-do it a second time, otherwise you generate duplicates
+    - also, it takes up to hours until items you see newly inserted in the GUI also arrive in sparql queries
+        - ==> wait hours between multiple attempts to run `quickstatement_commands*.txt` (and redo the notebook first to detect duplicates)
 
 ## Field mappings
 Open Data Zurich fountain properties are mapped to the following wikidata properties
