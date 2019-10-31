@@ -23,8 +23,9 @@ The project is open source under the GNU Affero General Public License, with a p
 - Go to `https://tools.wmflabs.org/wikidata-todo/quick_statements.php`.
 - Authenticate yourself with your Wikidata account.
 - Copy and paste the contents of `quickstatement_commands*.txt` into the blank field, and run the commands
-    - before 'run', check the Umlaut (opening with notepad was fine, just doubleclick distorted them)
+    - before 'run', check the Umlauts (opening with notepad was fine, just doubleclick distorted them)
     - if the wmflabs is slow, do not re-do it a second time, otherwise you generate duplicates
+    - you might even not see that pressing the "Do it" button had an effect. Watch twice before you hit it again (duplicates!)
     - also, it takes up to hours until items you see newly inserted in the GUI also arrive in sparql queries
         - ==> wait hours between multiple attempts to run `quickstatement_commands*.txt` (and redo the notebook first to detect duplicates)
 
