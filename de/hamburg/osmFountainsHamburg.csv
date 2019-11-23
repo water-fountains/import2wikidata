@@ -1,0 +1,128 @@
+type,id,lat,lon,tags
+node,257690357,53.5517602,10.0209298,{'amenity': 'fountain'}
+node,268192970,53.5498496,9.9354829,"{'amenity': 'fountain', 'image': 'http://commons.wikimedia.org/wiki/File:Hh-Stuhlmannbrunnen.jpg', 'name': 'Stuhlmannbrunnen', 'wikidata': 'Q2358953', 'wikipedia': 'de:Stuhlmannbrunnen'}"
+node,276284733,53.5452742,9.971903,"{'amenity': 'drinking_water', 'drinking_water:type': 'fountain', 'operator': 'Hamburg Wasser', 'wheelchair': 'yes'}"
+node,292561393,53.57026,9.980357,{'amenity': 'fountain'}
+node,297703374,53.5807213,9.7040324,{'amenity': 'fountain'}
+node,299141324,53.6252806,10.0761242,{'amenity': 'drinking_water'}
+node,301843175,53.5735263,10.00199,"{'amenity': 'drinking_water', 'operator': 'Hamburg Wasser', 'wheelchair': 'yes'}"
+node,304952746,53.6842052,9.6636585,{'amenity': 'fountain'}
+node,322918284,53.5492035,9.9201014,{'amenity': 'fountain'}
+node,325763789,53.6305959,10.0773987,{'amenity': 'drinking_water'}
+node,325763796,53.6310216,10.0773243,{'amenity': 'drinking_water'}
+node,325763800,53.631327,10.076931,{'amenity': 'drinking_water'}
+node,325763805,53.6311217,10.0765631,{'amenity': 'drinking_water'}
+node,325763811,53.6306916,10.0761672,{'amenity': 'drinking_water'}
+node,344310536,53.5695725,9.9494799,{'amenity': 'fountain'}
+node,357930582,53.5897503,9.7141651,{'amenity': 'fountain'}
+node,364146865,53.5463736,9.9872483,"{'amenity': 'fountain', 'artist_name': 'Georg Ernst', 'man_made': 'standpipe'}"
+node,392677787,53.488612,10.212847,"{'amenity': 'fountain', 'dsa:criteria': 'Baudenkmal', 'heritage': '4', 'heritage:operator': 'dsa', 'historic': 'heritage', 'image': 'http://commons.wikimedia.org/wiki/File:Hh-bergedorf-brunnen.jpg', 'name': 'Sievers Brunnen', 'ref:dsa': '25998', 'start_date': '1888'}"
+node,442006766,53.556327,9.9902808,"{'amenity': 'fountain', 'artist_name': 'Detlef Birgfeld', 'material': 'bronze', 'name': 'Brunnen', 'start_date': '1976'}"
+node,568490944,53.5550686,9.9957819,"{'amenity': 'fountain', 'name': 'Alster Fountains', 'tourism': 'attraction', 'xmas:feature': 'tree', 'xmas:lastcheck': '2013-12-01', 'xmas:location': 'Hamburger Binnenalster', 'xmas:name': 'Alstertanne', 'xmas:tree:height': '20'}"
+node,745759196,53.5476562,9.9900925,"{'amenity': 'fountain', 'name': 'Vierländerin-Brunnen'}"
+node,831738699,53.5778307,9.6952916,{'amenity': 'fountain'}
+node,831738735,53.5779073,9.695847,{'amenity': 'fountain'}
+node,831738806,53.5775974,9.6956974,{'amenity': 'fountain'}
+node,838371262,53.5465393,9.9689948,{'amenity': 'fountain'}
+node,932373726,53.6282597,10.0742116,{'amenity': 'drinking_water'}
+node,932373727,53.6278015,10.0757601,{'amenity': 'drinking_water'}
+node,932373728,53.6276785,10.0761417,{'amenity': 'drinking_water'}
+node,932373741,53.6288986,10.0737636,{'amenity': 'drinking_water'}
+node,984549528,53.5260626,10.0199628,"{'amenity': 'fountain', 'year': '1983'}"
+node,1152774767,53.5514187,9.9307742,"{'amenity': 'drinking_water', 'wheelchair': 'yes'}"
+node,1238473213,53.4261597,10.0086198,{'amenity': 'drinking_water'}
+node,1393492271,53.4650723,9.9726624,"{'amenity': 'fountain', 'name': 'Schwarzenbergbrunnen'}"
+node,1421274432,53.6101008,10.0786263,{'amenity': 'fountain'}
+node,1452642660,53.4615451,9.9804793,"{'amenity': 'fountain', 'artwork_type': 'sculpture', 'drinking_water': 'no', 'name': 'Geschichtsbrunnen', 'set': 'Kunstpfad', 'tourism': 'artwork'}"
+node,1453491550,53.4633891,9.981144,"{'amenity': 'fountain', 'name': 'Fischbrunnen'}"
+node,1487686258,53.5912515,10.0183017,{'amenity': 'fountain'}
+node,1511216858,53.5482154,9.9418805,{'amenity': 'fountain'}
+node,1583706805,53.5838208,9.6985098,"{'amenity': 'fountain', 'name': 'Ochsenbrunnen'}"
+node,1608402872,53.5544891,9.9003539,{'amenity': 'fountain'}
+node,1622157188,53.5411178,10.2141215,"{'amenity': 'fountain', 'name': 'Marktbrunnen'}"
+node,1701618959,53.6145644,10.1154636,"{'amenity': 'fountain', 'drinking_water': 'no'}"
+node,1720853420,53.5922244,10.015279,"{'amenity': 'drinking_water', 'operator': 'Hamburg Wasser', 'wheelchair': 'yes'}"
+node,1743560393,53.5919792,10.0208469,{'amenity': 'fountain'}
+node,1743627691,53.5955234,10.0275797,{'amenity': 'fountain'}
+node,1743627726,53.5957674,10.0266201,{'amenity': 'fountain'}
+node,1743627761,53.5950781,10.0285496,"{'amenity': 'fountain', 'artist_name': 'August Gaul', 'name': 'Pinguin-Brunnen', 'start_date': '1912'}"
+node,1802770774,53.4508486,9.9730192,{'amenity': 'fountain'}
+node,1887464088,53.5506058,9.9805458,"{'amenity': 'fountain', 'artist': 'Doris Waschk-Balz', 'material': 'Bronze', 'source': 'survey;Bing;plaque', 'start_date': '1978-9', 'tourism': 'artwork'}"
+node,1912513886,53.5512233,10.0006883,"{'amenity': 'fountain', 'architect': 'Fritz Schumacher, Gustav Wrba', 'dsa:criteria': 'Baudenkmal', 'heritage': '4', 'heritage:operator': 'dsa', 'historic': 'heritage', 'image': 'http://commons.wikimedia.org/wiki/File:Hamburg.M%C3%B6nckebergbrunnen.wmt.jpg', 'name': 'Mönckebergbrunnen'}"
+node,1924062906,53.5550072,9.9779759,{'amenity': 'fountain'}
+node,1924062908,53.5565102,9.979504,{'amenity': 'fountain'}
+node,1925847597,53.5619864,9.9807755,"{'amenity': 'fountain', 'description:de': 'Wasserspiele ohne Licht: 14, 16, 18 Uhr. Wasserlichtkonzerte Mai-Aug 22:00, Sep 21:00', 'event_times': 'May-Sep Mo-Su,PH 14:00,16:00,18:00, May-Aug Mo-Su,PH 22:00, Sep Mo-Su,PH 21:00', 'name': 'Wasserorgel', 'tourism': 'attraction', 'website': 'https://plantenunblomen.hamburg.de/wasserlichtkonzerte/'}"
+node,1941316946,53.5776402,9.9013101,"{'amenity': 'fountain', 'name': 'Pinguinbrunnen'}"
+node,1977153767,53.5523054,9.9820507,"{'amenity': 'fountain', 'description': 'Denkmal Hans Hummel', 'historic': 'memorial', 'inscription': 'Mit denn Boo-Verdeen to Hamborg tohoop oevergeven von deen Vereen geb. Hamborger r.v. von 1897 an de Hansestadt Hamborg Suenndag den 13. SEPT. 1938', 'memorial:type': 'statue', 'name': 'Hummelbrunnen', 'start_date': '1938', 'wikidata': 'Q102702', 'wikipedia': 'de:Hans Hummel'}"
+node,1982537058,53.6612752,9.7960428,{'amenity': 'fountain'}
+node,2018243207,53.6775901,10.2001895,"{'access': 'private', 'amenity': 'drinking_water', 'source': 'survey'}"
+node,2019494283,53.6714554,10.2043919,"{'access': 'private', 'amenity': 'drinking_water', 'source': 'survey'}"
+node,2179109790,53.7309969,9.903885,{'amenity': 'fountain'}
+node,2180031285,53.6225748,10.077818,{'amenity': 'drinking_water'}
+node,2182194876,53.6249686,10.07171,{'amenity': 'drinking_water'}
+node,2192603835,53.6513433,9.8293023,{'amenity': 'fountain'}
+node,2197832049,53.6679925,10.2417322,"{'amenity': 'drinking_water', 'emergency': 'yes', 'name': 'Notbrunnen'}"
+node,2337632344,53.6402998,9.9472458,{'amenity': 'drinking_water'}
+node,2367279130,53.4747258,10.2340832,{'amenity': 'fountain'}
+node,2465096768,53.5669297,9.9837586,"{'amenity': 'fountain', 'drinking_water': 'no'}"
+node,2509597922,53.5519049,10.1211357,{'amenity': 'drinking_water'}
+node,2509597945,53.5520712,10.1209075,{'amenity': 'drinking_water'}
+node,2509597963,53.5522675,10.1206204,{'amenity': 'drinking_water'}
+node,2589243215,53.5684383,10.0532999,{'amenity': 'fountain'}
+node,2701248745,53.6206795,9.9088779,"{'amenity': 'fountain', 'name': 'Höffner'}"
+node,2797382775,53.5469696,9.9910994,{'amenity': 'fountain'}
+node,2856178609,53.6705205,10.2386257,{'amenity': 'fountain'}
+node,2945789837,53.6527359,10.0920665,"{'amenity': 'fountain', 'name': 'Antje-Denkmal'}"
+node,2945791609,53.5637605,9.9898515,{'amenity': 'fountain'}
+node,3027832513,53.595193,10.0273617,{'amenity': 'fountain'}
+node,3027832518,53.5954375,10.0263889,{'amenity': 'fountain'}
+node,3151819715,53.5731151,10.0740969,{'amenity': 'fountain'}
+node,3159733187,53.5784413,10.0546534,{'amenity': 'fountain'}
+node,3161347068,53.5778523,10.052309,{'amenity': 'fountain'}
+node,3304393499,53.5553595,9.9588404,"{'amenity': 'fountain', 'drinking_water': 'no', 'lit': 'no'}"
+node,3510447536,53.4713099,9.6948946,"{'amenity': 'drinking_water', 'fee': 'yes'}"
+node,3668956626,53.5780091,10.0542,{'amenity': 'fountain'}
+node,3693963552,53.616481,10.087139,{'amenity': 'drinking_water'}
+node,3693963583,53.6169611,10.0868886,{'amenity': 'drinking_water'}
+node,3693963606,53.6174766,10.0873813,{'amenity': 'drinking_water'}
+node,3693964831,53.6177221,10.0869616,{'amenity': 'drinking_water'}
+node,3763831837,53.4268728,10.2961728,{'amenity': 'drinking_water'}
+node,3898109118,53.5481635,9.9419923,{'amenity': 'fountain'}
+node,3898109119,53.5481638,9.9419389,{'amenity': 'fountain'}
+node,3898109120,53.548183,9.9418923,{'amenity': 'fountain'}
+node,4046953277,53.626006,10.0831994,{'amenity': 'drinking_water'}
+node,4197429031,53.5509746,9.9919829,"{'amenity': 'drinking_water', 'operator': 'Hamburg Wasser'}"
+node,4226261823,53.5623873,9.9788922,"{'amenity': 'fountain', 'name': 'Wasserkaskaden'}"
+node,4382275169,53.5780781,10.0169865,{'amenity': 'fountain'}
+node,4418144289,53.44208,9.8858161,{'amenity': 'drinking_water'}
+node,4423579633,53.556267,9.9783532,{'amenity': 'fountain'}
+node,4552067628,53.4421613,9.8859981,"{'amenity': 'fountain', 'name': 'Sprudelstein'}"
+node,4552448812,53.4424892,9.8848752,"{'amenity': 'fountain', 'name': 'Sprudelstein'}"
+node,4678698422,53.5724799,10.0085364,"{'amenity': 'drinking_water', 'operator': 'Hamburg Wasser', 'wheelchair': 'yes'}"
+node,4828488301,53.5683474,9.7562525,"{'amenity': 'drinking_water', 'wheelchair': 'yes'}"
+node,4866067864,53.5683304,9.7562002,"{'amenity': 'drinking_water', 'wheelchair': 'yes'}"
+node,4979653921,53.5517761,9.9989148,{'amenity': 'fountain'}
+node,5064249664,53.5746096,10.0080008,{'amenity': 'fountain'}
+node,5114511924,53.5564747,9.9795017,"{'amenity': 'fountain', 'name': 'Wassertreppen', 'name:de': 'Wassertreppen', 'name:en': 'Watersteps'}"
+node,5114768409,53.4435438,9.8891961,{'amenity': 'fountain'}
+node,5162964023,53.630182,10.0047086,"{'amenity': 'drinking_water', 'check_date': '2019-06-07'}"
+node,5162978631,53.6332626,10.00467,{'amenity': 'drinking_water'}
+node,5208797737,53.6009767,10.0730366,{'amenity': 'fountain'}
+node,5211220460,53.5532589,10.0240361,{'amenity': 'drinking_water'}
+node,5248120757,53.4560436,9.9875248,{'amenity': 'fountain'}
+node,5338050103,53.6672025,9.9937405,{'amenity': 'fountain'}
+node,5513918578,53.7075259,9.9942058,"{'amenity': 'fountain', 'name': 'Regentrude'}"
+node,5661440661,53.5501912,10.0821469,{'amenity': 'fountain'}
+node,5713873187,53.5496879,9.982568,{'amenity': 'fountain'}
+node,5724076194,53.4592022,9.9810876,"{'amenity': 'drinking_water', 'opening_hours': '24/7'}"
+node,5809273954,53.5856579,9.9821338,{'amenity': 'drinking_water'}
+node,5981213423,53.6744698,10.2398291,{'amenity': 'fountain'}
+node,5981213424,53.6739709,10.2397138,{'amenity': 'fountain'}
+node,6075702947,53.6312726,10.0054623,"{'amenity': 'drinking_water', 'check_date': '2019-06-07', 'fixme': 'better position', 'level': '0', 'note': 'next to luggage belt 7'}"
+node,6126346777,53.5671588,10.0412545,{'amenity': 'fountain'}
+node,6309279669,53.5929561,9.936488,{'amenity': 'fountain'}
+node,6426760687,53.6232741,10.0776708,{'amenity': 'drinking_water'}
+node,6487428230,53.5634703,10.0736247,{'amenity': 'fountain'}
+node,6542576093,53.5583272,9.8238643,{'amenity': 'fountain'}
+node,6680240179,53.7068147,9.6839146,{'amenity': 'fountain'}
+node,6699196385,53.6205305,10.0385597,{'amenity': 'fountain'}
