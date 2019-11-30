@@ -25,7 +25,7 @@ Dieses Script liest die Daten ein und gibt sie als xml aus. Dieses XML kann mit 
 
 #### Wichtig:
 * JOSM: um die OSM Daten hochzuladen muss man die version 15322 haben. Mit neueren Versionen ist dies eventuell nicht möglich.
-* Vor dem ausführen der beiden Scripts wurde nach Duplikaten mit Hilfe von QGIS (mit dem QuickOSM Plugin) gesucht (hierbei kann man die Daten in QGIS laden und mit hilfe von dem Plugin eine Abfrage erstellen, die alle Momentan eingetragenen in ein neues Layer lädt. Danach reicht eine weitere Abfrage um die überlappenden Einträge zu finden) und die Scripts entsprechend angepasst. Diese Filter wurden wieder entfernt.
+* Vor dem ausführen der beiden Scripts wurde nach Duplikaten mit Hilfe von QGIS (mit dem QuickOSM Plugin) gesucht (hierbei kann man die Daten in QGIS laden und mit hilfe von dem Plugin eine Abfrage erstellen (unter Vector -> QuickOSM -> QuickOSM), die alle Momentan eingetragenen in ein neues Layer lädt. Danach reicht eine weitere Abfrage um die überlappenden Einträge zu finden siehe Bild) und die Scripts entsprechend angepasst. Diese Filter wurden wieder entfernt.
 
 
 #### Sonstiges:
