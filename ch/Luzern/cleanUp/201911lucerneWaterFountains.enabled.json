@@ -1,0 +1,3610 @@
+{
+  "45" : {
+    "Artist" : "Robert Elmiger, Gotthard Arnet, Ruedi Weber",
+    "Desc_de" : "Auf dem Muschelbecken steht eine quaderfärmige Säule, die von einer Kugel gekrönt wird. Neben dem Brunnen laden zwei Bänke zum Verweilen ein.",
+    "Desc_en" : "A column, crowned with a sphere, rises out of the shell-shaped basin. On either side of the fountain is a bench to relax on. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0521902",
+      "longitude" : "8.3060282"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594553/Kornmarktbrunnen_neuyje.jpg"
+    } ],
+    "LocationDesc_de" : "Kornmarkt ",
+    "LocationDesc_en" : "Kornmarkt ",
+    "Name" : "Kornmarktbrunnen",
+    "Name_en" : "Kornmarkt Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Obwohl der Kornmarkt unter den Luzerner Altstadtplätzen eine Vorrangstellung einnimmt, ist er für einen entsprechend repräsentativen Brunnen zu klein. Deshalb tat sich die Stadt lange schwer, den geeigneten Wasserspender zu finden. So zierte bereits ein Wandbrunnen mit um einen Dreizack geschlungenen Fisch sowie ein modern stilisierter Delphin den Platz vor dem Rathaus. Auch der heutige Brunnen wurde seit seiner Entstehung 1905 bereits einige Male versetzt. Seit 1978 steht dieser Brunnen nun beim Kornmarkt. Dafür restaurierte Bildhauer Ruedi Weber den Stock und das muschelförmige Becken und fügte die bekrönende Kugel, als auch die beiden Steinbänke, die sich neben dem Brunnen befinden, hinzu.",
+    "Story_en" : "\nDespite the Kornmarkt ranking as one of the top squares in the old town, it is too small to accomodate an equally prestigious fountain. Finding the right water dispenser was therefore a difficult task for the city council. The current fountain had to travel a long way until it was placed at its current location in the Kornmarkt in 1978. Before its installation, the sculptor Ruedi Weber restored the base and the shell-shaped basin and added two new elements: firstly, the crowning sphere and secondly, the two stone benches that are located next to the fountain.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "7.6.2017, 16:50:32",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "34" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0420779",
+      "longitude" : "8.2997621"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594458/Josefbrunnen_dg5uxr.jpg"
+    } ],
+    "LocationDesc_de" : "Kapelle Pflegeheim Steinhof",
+    "LocationDesc_en" : "Care Home Steinhof",
+    "Name" : "Josefbrunnen",
+    "Name_en" : "Josef Fountain ",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "type_springbrunnen",
+    "Year" : "",
+    "changedAt" : "7.6.2017, 16:49:06",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "169" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06041749",
+      "longitude" : "8.295880293"
+    },
+    "GisObjectId" : 294,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935115/Froschko%CC%88nig-Brunnen_Friedhofhalle1_j1q9zb.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935110/Froschko%CC%88nig-Brunnen_Friedhofhalle2_tuxihh.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof Ost in der Halle",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern cemetery inside the hall",
+    "Name" : "Friedhofshallenbrunnen",
+    "Name_en" : "Cemetery Hall Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "type_sprudelbrunnen",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:21:53",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "120" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03948291",
+      "longitude" : "8.304261401"
+    },
+    "GisObjectId" : 374,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945743/BrunnenMoosmattstrasse_mft2wv.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945760/BrunnenMoosmattstrasse2_elrvpw.jpg"
+    } ],
+    "LocationDesc_de" : "Ecke Voltastrasse - Moosmattstrasse",
+    "LocationDesc_de_2" : "Moosmattschulhaus (Nische)",
+    "LocationDesc_en" : "Crossroads of Voltastrasse and Moosmattstrasse",
+    "Name" : "Wandbrunnen Moosmattstrasse",
+    "Name_en" : "Wall Fountain Moosmattstrasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Voltastrasse 35",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:16:17",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "193" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03541",
+      "longitude" : "8.32450"
+    },
+    "GisObjectId" : 324,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942599/Relibrunnen3_knbjfz.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942602/Relibrunnen2_pz59by.jpg"
+    } ],
+    "LocationDesc_de" : "Zwischen Hirtenhofstrasse 23 und 25",
+    "LocationDesc_de_2" : "Hirtenhofstrasse 23/25",
+    "LocationDesc_en" : "Between Hirtenhofstrasse 23 and 25",
+    "Name" : "Relibrunnen",
+    "Name_en" : "Reli Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Hirtenhofstrasse 23/25",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:32:12",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "153" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06074753",
+      "longitude" : "8.305227261"
+    },
+    "GisObjectId" : 302,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945471/Sa%CC%88ulenbrunnen_Rosenbergstrasse1_iqpuf9.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945498/Sa%CC%88ulenbrunnen_Rosenbergstrasse5_a7nglf.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945496/Sa%CC%88ulenbrunnen_Rosenbergstrasse3_erygik.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Rosenbergstrasse 2 und Friedentalstrasse",
+    "LocationDesc_de_2" : "Rosenbergstrasse Platz",
+    "LocationDesc_en" : "Rosenbergstrasse 2",
+    "Name" : "Säulenbrunnen",
+    "Name_en" : "Pillar Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Rosenbergstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:11:45",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "158" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03421527",
+      "longitude" : "8.299484895"
+    },
+    "GisObjectId" : 355,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942200/Murmattbrunnen2_xspumx.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942221/Murmattbrunnen3_fkldo4.jpg"
+    } ],
+    "LocationDesc_de" : "Murmattweg 6",
+    "LocationDesc_de_2" : "Murmattweg Platz",
+    "LocationDesc_en" : "Murmattweg 6",
+    "Name" : "Murmattbrunnen",
+    "Name_en" : "Murmatt Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Murmattweg ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:17:08",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "142" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05792992",
+      "longitude" : "8.313489161"
+    },
+    "GisObjectId" : 506,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933661/Felsbergbassin1_s1vngs.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933726/Felsbergbassin4_idxzjx.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933726/Felsbergbassin3_is3xc8.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Felsbergstrasse 11 und 17",
+    "LocationDesc_de_2" : "Felsbergstrasse Platz",
+    "LocationDesc_en" : "Between Felsbergstrasse 11 and 17",
+    "Name" : "Felsbergweiher",
+    "Name_en" : "Felsberg Pond",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Felsbergstrasse ",
+    "Typ" : "type_weiher",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:00:42",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "147" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05840793",
+      "longitude" : "8.314100501"
+    },
+    "GisObjectId" : 507,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944536/Seepferdschale_Schule_Felsberg3_tug1hw.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944553/Seepferdschale_Schule_Felsberg4_omutvu.jpg"
+    } ],
+    "LocationDesc_de" : "Schulhaus Felsberg",
+    "LocationDesc_de_2" : "Felsberg Schulhaus",
+    "LocationDesc_en" : "Felsberg School",
+    "Name" : "Seepferdchenbrunnen",
+    "Name_en" : "Seahorse Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Felsbergstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:56:05",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "12" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0547003",
+      "longitude" : "8.3075603"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494601297/Trinkbrunnen_Spielplatz_Museggstrasse_2_n4oteg.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494601299/Trinkbrunnen_Spielplatz_Museggstrasse_t8d8u0.jpg"
+    } ],
+    "LocationDesc_de" : " Spielplatz vis à vis Museggstrasse 20 ",
+    "LocationDesc_en" : "Playground across from Museggstrasse 20 ",
+    "Name" : "Spielbrunnen Museggstrasse 20",
+    "Name_en" : "Playground Fountain at Museggstrasse 20",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "1976 wurde ein Brunnen mit Inschrift 1927 aufgestellt. Wo der ländlich-rustikale Trog während den ersten 50 Jahren seines Bestehens gestanden hat, ist nicht bekannt. \n",
+    "Story_en" : "The fountain, inscribed with the year 1927, was erected in 1976. It is unknown as to where the rural, rustic fountain had been during the first 50 years of its existence.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1927",
+    "changedAt" : "6/4/2017, 10:55:36 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "223" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06536195",
+      "longitude" : "8.282532147"
+    },
+    "GisObjectId" : 386,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933415/Familienbrunnen_Reussbu%CC%88hl2_hgwux0.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vis à vis Hauptstrasse 40",
+    "LocationDesc_de_2" : "Hauptstrasse Platz",
+    "LocationDesc_en" : "Square opposite Hauptstrasse 40",
+    "Name" : "Dorfbrunnen Reussbühl",
+    "Name_en" : "Reussbühl Village Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Hauptstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:50:20",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "66" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04717957",
+      "longitude" : "8.304379487"
+    },
+    "GisObjectId" : 434,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944004/Schwanenko%CC%88nig_Obergrundstrasse2_c5jzqm.jpg"
+    } ],
+    "LocationDesc_de" : "Obergrundstrasse 11",
+    "LocationDesc_de_2" : "Obergrundstrasse Platz",
+    "LocationDesc_en" : "Obergrundstrasse 11",
+    "Name" : "Schwanenbrunnen Obergrundstrasse",
+    "Name_en" : "Swan Fountain Obergrundstrasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Obergrundstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:46:53",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "216" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.02700951",
+      "longitude" : "8.304960738"
+    },
+    "GisObjectId" : 356,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943564/Schrebergarten_hxzgxn.jpg"
+    } ],
+    "LocationDesc_de" : "Schrebergarten Kantonsstrasse",
+    "LocationDesc_de_2" : "Brändistrasse Schrebergarten",
+    "LocationDesc_en" : "Allotment Garden at Kantonsstrasse",
+    "Name" : "Schrebergartenbrunnen",
+    "Name_en" : "Allotment Garden Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Brändistrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:40:01",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "51" : {
+    "Artist" : "Roland Duss, Jakob Gamper",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0542636",
+      "longitude" : "8.3084468"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594028/Einhornbrunnen_2_b3zril.jpg"
+    } ],
+    "LocationDesc_de" : "Hertensteinstrasse vor Restaurant Einhorn",
+    "LocationDesc_en" : "Hertensteinstrasse in front of restaurant Einhorn",
+    "Name" : "Einhornbrunnen",
+    "Name_en" : "Unicorn Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Während in der Regel die Plätze existiert haben, bevor die Brunnen daraufgestellt worden sind, verhält es sich beim Einhornbrunnen genau umgekehrt. Der ausgesparte Platz in der Gasse deutet darauf hin, dass man an dieser Stelle von Anfang an einen Brunnen eingeplant hat. Der heutige Brunnen besitzt zahlreiche Vorgänger. Bereits 1597 ist ein Brunnen mit einer Justitia als Stockbekrönung eingezeichnet. 1901 hat man diesen Brunnen, der von den Anwohnern infolge seiner Grösse schon lange als lästig empfunden und durch verschiedene Vandalenakte stark beschädigt war, abgebrochen. Als Ersatz wählte der Stadtrat ein gusseisernes Gebilde, das aber 1947 bereits derart durchgerostet war, dass es entfernt werden musste. Heute steht hier nun der Brunnen mit dem Einhorn, jenem Fabelwesen, das 1695 dem benachbarten Gasthaus zum Namen verholfen hat.",
+    "Story_en" : "While most squares already existed before the addition of a fountain, the opposite is true in the case of the unicorn fountain. The reserved space on the street alludes to the fact that it had always been planned to accomodate a fountain. The fountain standing there today had many predecessors. Already in 1597, Justitia, The Lady of Justice, crowned the original fountain. In 1901, this fountain had to be replaced, because residents found its size bothersome and, as a result of its unpopularity, it had been seriously damaged by several acts of vandalism. As a replacement, the city council chose a cast-iron structure, but by 1947 it was already rusted through in such a way that it also had to be removed. Today the unicorn fountain stands in its place, the mythical creature that inspired the name of the adjacent inn in 1695. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1948",
+    "changedAt" : "30.5.2017, 10:28:28",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "8" : {
+    "Artist" : "",
+    "Desc_de" : "Halbrunder Muscheltrog mit rundem Stock. ",
+    "Desc_en" : "Semi-circular shell like trough with a round column. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0536646",
+      "longitude" : "8.3038417"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592086/Brunnen_Museggstrasse_o6v1l4.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592095/Brunnen_Museggstrasse_1_mxiwpv.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Museggstrasse 29 und 34",
+    "LocationDesc_en" : "Square between Museggstrasse 29 und 34",
+    "Name" : "Museggbrunnen",
+    "Name_en" : "Musegg Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Brunnen wurde 1893 errichtet, als auf dem Grundstück Museggstrasse 34 eine Brunnenquelle zutage trat. Der Stadtrat beschloss, dieses Wasser zu fassen und westlich des Hauses Museggstrasse 32 einen öffentlichen Brunnen zu schaffen. Heute ist der Brunnen an das Druckleitungsnetz angeschlossen. \n",
+    "Story_en" : "This fountain was built as a water source in 1893, tapping into the spring found on the Museggstrasse 34 plot. Once the city council decided to tap this water source this fountain was erected west of the Museggstrasse for public use. Today, the well is connected to the pressure pipeline network.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1893",
+    "changedAt" : "6.6.2017, 17:34:21",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "164" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04030459",
+      "longitude" : "8.324354992"
+    },
+    "GisObjectId" : 325,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943923/Schulhaus_Wartegg2_tup29r.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943945/Schulhaus_Wartegg3_t5qpf3.jpg"
+    } ],
+    "LocationDesc_de" : "Platz Schulhaus Wartegg",
+    "LocationDesc_de_2" : "Wartegg Schulhaus",
+    "LocationDesc_en" : "Schoolyard Wartegg",
+    "Name" : "Schulhausbrunnen Wartegg",
+    "Name_en" : "Schulhausbrunnen Wartegg",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Warteggstrasse ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:45:53",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "170" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05882409",
+      "longitude" : "8.292153764"
+    },
+    "GisObjectId" : 301,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496934257/Pilzbrunnen_Friedentalstrasse1_eeovrw.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496934285/Pilzbrunnen_Friedentalstrasse3_nz3eb2.jpg"
+    } ],
+    "LocationDesc_de" : "Bushaltestelle vor Friedentalstrasse 60",
+    "LocationDesc_de_2" : "Friedentalstrasse Bushaltestelle",
+    "LocationDesc_en" : "Friedentalstrasse 60",
+    "Name" : "Friedentalbrunnen",
+    "Name_en" : "Friedental Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedentalstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:04:50",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "78" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04484461",
+      "longitude" : "8.305042284"
+    },
+    "GisObjectId" : 446,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944861/Springbrunnen_Obergrundstrasse1_p0sbgc.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944879/Springbrunnen_Obergrundstrasse2_qrpvtl.jpg"
+    } ],
+    "LocationDesc_de" : "Hinterhof Obergrundstrasse 61 (Ostseite)",
+    "LocationDesc_de_2" : "Obergrundstrasse 61 (Ost)",
+    "LocationDesc_en" : "Backyard at Obergrundstrasse 61",
+    "Name" : "Springbrunnen Obergrundstrasse 61",
+    "Name_en" : "Fountain at Obergrundstrasse 61",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Obergrundstrasse ",
+    "Typ" : "type_springbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:01:27",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "19" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.050903",
+      "longitude" : "8.300558"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944418/Schu%CC%88tzenbrunnen_gin4jz.jpg"
+    } ],
+    "LocationDesc_de" : "Innenhof Schützenstrasse 1",
+    "LocationDesc_en" : "Inner courtyard at Schützenstrasse 1",
+    "Name" : "Schützenbrunnen",
+    "Name_en" : "Schützen Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der bescheidene Brunnen birgt eine 400-jährige Geschichte. Zunächst zentral im Innenhof gelegen, muss er 1889 aufgrund der Umbauarbeiten und der Errichtung des Von Moos an seinen heutigen Nischenplatz weichen. Die Stadt hätte allerdings immer noch das Recht, am zentralen Platz einen öffentlichen Brunnen zu betreiben.",
+    "Story_en" : "This modest fountain has a 400 year old history. Initially centrally located in the inner courtyard, the fountain was relocated to its current position due to renovation work.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1488",
+    "changedAt" : "8.6.2017, 19:53:49",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "23" : {
+    "Artist" : "",
+    "Desc_de" : "Zwei Treppenstufen führen zum Brunnentrog. Der Brunnentrog ist sechseckig. Er ist mit bombierten Füllungen und Wappenkartuschen geschmückt. Auf dem runden Stock steht die Figur des wilden Mannes mit Tartsche und Baumstamm. ",
+    "Desc_en" : "Two steps lead to the hexagonal basin. It is embossed with fillings and adorned with coats of arms. The round column is crowned with the figure of a wild man with a shield and a wooden stick. ",
+    "Enabled" : true,
+    "FountainTour_de" : "Dieser Brunnen ist Teil einer offiziellen Brunnen-\n und Wasserführung. Informiere Dich bei luzern.com/de/brunnentratsch oder nachtwächterralf.ch.",
+    "FountainTour_en" : "This fountain is part of a official fountain and water tour. For further information check http://www.luzern.com/en/brunnentratsch or nightwatchman.ch.",
+    "GeoLocation" : {
+      "latitude" : "47.051198",
+      "longitude" : "8.302114"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606545/Zeughaus-_oder_Pfisterngassbrunnen_azqubl.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606595/Zeughaus-_oder_Pfisterngassbrunnen_1_vbujom.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Pfistergasse 22 und 24 ",
+    "LocationDesc_en" : "Court between Pfistergasse 22 and 24",
+    "Name" : "Zeughaus- oder Pfistergassbrunnen",
+    "Name_en" : "Armoury Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Gemäss Renward Cysat ist der Zeughaus- oder Pfistergassbrunnen 1547 gebaut worden. Er trug ursprünglich einen Luzerner Bannerträger auf dem Stock, doch dieser wurde 1678 durch den heutigen wilden Mann mit Tartsche und Baumstamm ersetzt. 1738/39 wurde der heutige Brunnentrog installiert. Stock und Brunnen wurden im 20 Jh. gleich zweimal kopiert und erneuert: 1909 von Josef Vetter und 1974 von Edgar Schürmann. ",
+    "Story_en" : "According to Renward Cysat, the fountain at the armoury was built in 1547 and in 1580 had already been restored. Originally, a Lucerne standard-bearer crowned the column, which was replaced in 1678 by today's wild man with a shield and wooden stick. In 1738/39 the current drinking basin was installed. The column and fountain were copied twice, once in 1909 by Joseff Vetter and again in 1974 by Edgar Schürmann.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1547",
+    "changedAt" : "8.6.2017, 20:54:52",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "62" : {
+    "Artist" : "",
+    "Desc_de" : "Der kleine Sandsteintrog steht auf einem Sockel aus Bruchsteinmauerwerk und besitzt eine schlangenkopfförmige Röhrenplastik.",
+    "Desc_en" : "The small sandstone trough possesses a water dispenser in the form of a snake's head.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.058277",
+      "longitude" : "8.310494"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941802/Lo%CC%88wentrog_Lo%CC%88wendenkmal2_kqnbaa.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941817/Lo%CC%88wentrog_Lo%CC%88wendenkmal3_rkmibh.jpg"
+    } ],
+    "LocationDesc_de" : "Löwendenkmal ",
+    "LocationDesc_en" : "Löwendenkmal ",
+    "Name" : "Löwendenkmalbrunnen",
+    "Name_en" : "Lion Monument Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Das Löwendenkmal besitzt nicht nur einen Weiher, sondern auch seit 1945 einen kleinen Brunnen. ",
+    "Story_en" : "Below the Lion Monument there is not only a pond, but also a drinking fountain. The small sandstone basin with a snakehead shaped dispenser tube was erected in 1945.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1945",
+    "changedAt" : "8.6.2017, 19:10:26",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "135" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03721823",
+      "longitude" : "8.300991481"
+    },
+    "GisObjectId" : 365,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496946040/Bu%CC%88ro_Zimmerwerk_pmq9ic.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496946057/Bu%CC%88ro_Zimmerwerk3_kbsohz.jpg"
+    } ],
+    "LocationDesc_de" : "Vorplatz bei Eichwaldstrasse 29",
+    "LocationDesc_de_2" : "Eichwaldstrasse Vorplatz",
+    "LocationDesc_en" : "Eichwaldstrasse 29",
+    "Name" : "Zimmerwerkbrunnen",
+    "Name_en" : "Zimmerwerk Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Eichwaldstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:22:18",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "128" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05594498",
+      "longitude" : "8.313863128"
+    },
+    "GisObjectId" : 503,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942538/Probsteinbrunnen2_zbjrfj.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942539/Probsteinbrunnen1_oeps1p.jpg"
+    } ],
+    "LocationDesc_de" : "Zwischen Hofkirche und Adligenswilerstrasse",
+    "LocationDesc_de_2" : "St. Leodegar-Strasse 17",
+    "LocationDesc_en" : "Between Hofkirche and Adligenswilerstrasse",
+    "Name" : "Probsteibrunnen",
+    "Name_en" : "Probstei Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "St. Leodegar-Strasse 17",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:22:33",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "4" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.058561",
+      "longitude" : "8.352698"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494596233/Trinkbrunnen_Hochhu%CC%88sliweid_afiv1q.jpg"
+    } ],
+    "LocationDesc_de" : "Spielplatz vis à vis Hochhüsliweid 6 ",
+    "LocationDesc_en" : "Playground in front of the Hochhüsliweid 6",
+    "Name" : "Hochhüsliweidbrunnen",
+    "Name_en" : "Hochhüsliweid Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Er wurde 1973 errichtet, als auch andere neu erstellte Spielplätze der Stadt mit einem Brunnen bereichert wurden. Die aktive Quartiergruppe \"Spielhaus Würzenbach\" hat  eine ganze Brunnenanlage, die einem Bach ähnlich sieht, gestaltet.",
+    "Story_en" : "The fountain was built in 1973, as other newly created playgrounds of the city were similarly enhanced with a fountain. The active neighbourhood group \"Spielhaus Würzenbach\" created an entire fountain complex that bears comparison with a creek. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1973",
+    "changedAt" : "6/7/2019, 6:30:34 PM",
+    "changedBy" : "dennis.briner@wfw.ch"
+  },
+  "121" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0526701",
+      "longitude" : "8.296287182"
+    },
+    "GisObjectId" : 394,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933607/Eisenbahnbrunnen_Baselstrasse2_qij7in.jpg"
+    } ],
+    "LocationDesc_de" : "Baselstrasse 24",
+    "LocationDesc_de_2" : "Baselstrasse Platz",
+    "LocationDesc_en" : "Baselstrasse 24",
+    "Name" : "Eisenbahnerbrunnen",
+    "Name_en" : "Railman Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Baselstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "18.8.2017, 11:50:31",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "40" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05077",
+      "longitude" : "8.3103174"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592445/Brunnen_Torbogen_Bahnhof_my2ohz.jpg"
+    } ],
+    "LocationDesc_de" : "Bahnhof Torbogen",
+    "LocationDesc_en" : "Archway at the Central Railway Station",
+    "Name" : "Torbogenbrunnen",
+    "Name_en" : "Archway Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "type_sprudelbrunnen",
+    "Year" : "",
+    "changedAt" : "7.6.2017, 11:06:49",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "110" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04679013",
+      "longitude" : "8.316009422"
+    },
+    "GisObjectId" : 451,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496932517/Vogelhausbrunnen_Landebergstrasse1_ufnzer.jpg"
+    } ],
+    "LocationDesc_de" : "Carparkplatz Alpenquai 4",
+    "LocationDesc_de_2" : "Landenbergstrasse Carparkplatz",
+    "LocationDesc_en" : "Car parking at Alpenquai 4",
+    "Name" : "Alpenquaibrunnen",
+    "Name_en" : "Alpenquai Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Landenbergstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:35:36",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "15" : {
+    "Artist" : "Josef Vetter, Karl Mossdorf, Urban Dindo, Traugott Niederberger",
+    "Desc_de" : "Wandbrunnen mit Relief und halber Halbschale. Das Relief zeigt Sankt Georg, wie er mit einem Schwert in der Hand den Drachen tötet.",
+    "Desc_en" : "Wall fountain with relief and a half shell basin. The relief depicts St. George, sword in hand, killing a dragon. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.040436",
+      "longitude" : "8.301807"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592644/Drachento%CC%88terbrunnen_1_lrhhwp.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592643/Drachento%CC%88terbrunnen_2_pakite.jpg"
+    } ],
+    "LocationDesc_de" : "Obergrundstrasse 101",
+    "LocationDesc_en" : "Obergrundstrasse 101",
+    "Name" : "Drachentöterbrunnen",
+    "Name_en" : "Dragonslayer Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Sankt Georg, der Drachentöter, gehört trotz seines legendhaften Ursprungs zu den beliebtesten Heiligen des katholischen Christentums. Als 1934 die Einmüdung der Villen- in die Obergrundstrasse  korrigiert wurde, musste der Drachentöterbrunnen zurückversetzt werden. Josef Vetter schuf das Relief, Karl Mossdorf hatte den Trog in der für ihn typischen Form entworfen und die Steinhauermeister Urban Dindo und Traugott Niederberger meisselten ihn in Granit. \n",
+    "Story_en" : "Despite his legendary origin, Saint George, the dragon slayer, belongs to the most popular saints of the Catholic Faith. The relief was created by Josef Vetter, Karl Mossdorf designed its form in his typical style and stonemasons Urban Dindo and Traugott Niederberger chiselled the fountain out of granite.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "30.5.2017, 10:13:09",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "11" : {
+    "Artist" : "Josef Vetter",
+    "Desc_de" : "Eine kleine, runde Schale mit zentralem Stock. Auf dem Stock steht die Figur des jungen Falkners.",
+    "Desc_en" : "A small, round basin with a central column. On top of the column is the figure of the young Falkner.  ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0535741",
+      "longitude" : "8.3069473"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592880/Falkenbrunnen_usjbis.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592905/Falkenbrunnen_1_zojuw8.jpg"
+    } ],
+    "LocationDesc_de" : "Falkenplatz ",
+    "LocationDesc_en" : "Falkenplatz ",
+    "Name" : "Falknerbrunnen",
+    "Name_en" : "Falcon Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Aufgestellt wurde der Falknerbrunnen 1898 als Ersatz für einen Wasserspender aus dem Jahre 1861. Geschaffen hat die Figur Bildhauer Josef Vetter in Erinnerung an das Gasthaus zum Falken, das dort bis 1898 stand. 1934 hatte ein Lastwagen den Trog zertrümmert, worauf Johann Wilhelm Füllemann einen neuen schuf. \n",
+    "Story_en" : "The falcon fountain was erected in 1898 as a replacement for a water dispenser from the year 1861. The figure was created by sculptor Josef Vetter, in memory of the Falcon Inn, which stood there until 1898. Johann Wilhelm Füllemann created a new basin in after a truck destroyed the original in 1934.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1898",
+    "changedAt" : "30.5.2017, 10:48:15",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "104" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05142305",
+      "longitude" : "8.299685803"
+    },
+    "GisObjectId" : 397,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933462/Eckbrunnen_Baselstrasse2_d1fr64.jpg"
+    } ],
+    "LocationDesc_de" : "Innenhof zwischen Baselstrasse 1 und 3",
+    "LocationDesc_de_2" : "Baselstrasse  Innenhof",
+    "LocationDesc_en" : "Between Baselstrasse 1 and 3",
+    "Name" : "Eckbrunnen Baselstrasse",
+    "Name_en" : "Corner Fountain Baselstrasse",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Baselstrasse ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 22:14:39",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "9" : {
+    "Artist" : "",
+    "Desc_de" : "Das komplett freistehende Becken, das aus einem einzigen Granitstein gehauen wurde, prägt den Brunnen. Der Trog ist mit einer sogenannten Wulstrosette geschmückt und einem Kesseleisen versehen.",
+    "Desc_en" : "The completely free-standing basin, built out of a single block of granite, characterises this fountain. The trough is decorated with so-called \"Wulstrosette\" and furnished with copper iron. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.050484",
+      "longitude" : "8.304022"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594261/Gymnasi-_und_Krienbru%CC%88gglibrunnen_1_jajnfx.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594268/Gymnasi-_und_Krienbru%CC%88gglibrunnen_2_ucxja7.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Bahnhofstrasse 18",
+    "LocationDesc_en" : "Square in front of Bahnhofstrasse 18",
+    "Name" : "Gymnasi- oder Jesuitenbrunnen",
+    "Name_en" : "Gymnasi or Jesuits Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Gymnasi- oder Jesuitenbrunnen zählt zu den bemerkenswerten Brunnen Luzerns. Er lehnt sich an eine Arkadensäule des ehemaligen Jesuitengymnasiums. Entstanden ist der Brunnen 1737, um die ansässigen Jesuiten mit Wasser zu versorgen. 1936 wurde letztmals das aus einem einzigen Granitblock herausgehauene Becken restauriert. Die Funktion des Stockes hat der Arkadenpfeiler übernommen, der an seiner Vorderseite eine flach gehaltene Régencegliederung mit nunmehr leerer Kartusche trägt. 1961 ersetze Paul Kyburz diesen ornamentalen Hintergrund durch eine Kopie aus Scherikoner Sandstein.",
+    "Story_en" : "The Jesuits fountain is one of the most remarkable fountains of Lucerne. It leans against an arcade pillar of the former Jesuit school and today's State Archives. It was erected in 1737. The basin, carved out of a single block of granite, was restored for the last time in 1936. In 1961 Paul Kyburz replaced the ornamental background with a copy of Scherikon sandstone.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1737",
+    "changedAt" : "30.5.2017, 19:31:18",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "141" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05377663",
+      "longitude" : "8.292137211"
+    },
+    "GisObjectId" : 390,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1497000476/La%CC%88deli_Wandbrunnen1_smsfyx.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1497000476/La%CC%88deli_Wandbrunnen3_fmr2nn.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Baselstrasse 67 und Kreuzstutz",
+    "LocationDesc_de_2" : "Kreuzstutz Platz",
+    "LocationDesc_en" : "Square between Baselstrasse 67 and Kreuzstutz",
+    "Name" : "Lädelibrunnen",
+    "Name_en" : "Lädeli Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Baselstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:28:01",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "139" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03629043",
+      "longitude" : "8.308510604"
+    },
+    "GisObjectId" : 369,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944670/SpielbrunnenHochru%CC%88ti_ugciyr.jpg"
+    } ],
+    "LocationDesc_de" : "Spielplatz vis à vis Hochrütistrasse 5",
+    "LocationDesc_de_2" : "Hochrütistrasse Spielplatz",
+    "LocationDesc_en" : "Playground across from Hochrütistrasse 5",
+    "Name" : "Spielbrunnen Hochrütistrasse 5",
+    "Name_en" : "Playground Fountain at Hochrütistrasse 5",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Hochrütistrasse ",
+    "Typ" : "type_spielbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:58:11",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "44" : {
+    "Artist" : "",
+    "Desc_de" : "Die vier Löwenköpfe als Wasserspeier sind in die Arkade eingebaut.",
+    "Desc_en" : "The four lion heads acting as waterspouts were built into the archway.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.051739",
+      "longitude" : "8.305626"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592981/Fischbrunnen_1_o4qrib.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494593003/Fischbrunnen1_njkcso.jpg"
+    } ],
+    "LocationDesc_de" : "Unter der Egg ",
+    "LocationDesc_en" : "Unter der Egg ",
+    "Name" : "Fischbrunnen ",
+    "Name_en" : "Fish Fountain (Fischbrunnen)",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Obwohl der Brunnen vier Löwenköpfe als Wasserspeier besitzt, ist er unter dem Namen Fischbrunnen im Grundbuch eingetragen. Diesen Namen erhielt er nicht aufgrund seines Aussehens, sondern wegen der Aufgabe, die er erfüllt. Während des Marktes dient der 1925 errichtete Brunnen nämlich der Reinigung von Fischen. Vor seiner Errichtung wurde dazu Reusswasser verwendet, was die Lebensmittelpolizei bei der zunehmenden Verschmutzung des Flusses jedoch nicht mehr verantworten wollte.  \n",
+    "Story_en" : "Although the fountain features four lion heads as waterspouts, it is registered under the name Fish Fountain in the land titles registry.  The fountain received its name not due to its appearance, but as a result of the task it fulfilled. The fountain was built in 1925 and was used for cleaning fish during times when the fish market took place there. Beforehand, fishmongers used water from the River Reuss to clean their fish, which was later stopped by the health authorities worried about the cleanliness of the river. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1925",
+    "changedAt" : "30.5.2017, 10:41:18",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "33" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.042035",
+      "longitude" : "8.303527"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592145/Brunnen_Pauluskirche_out_of_order_tafqbm.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vis à vis Pauluskirche, Moosmattstrasse 2",
+    "LocationDesc_en" : "Square opposite St. Paul Church, Moosmattstrasse 2",
+    "Name" : "Rossbrunnen Pauluskirche",
+    "Name_en" : "Horse Fountain at St. Paul Church",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Story_de" : "Dem ursprünglichen Trinkbrunnen wurde aufgrund von Einsprachen der Nachbarschaft das Wasser abgedreht.",
+    "Story_en" : "The former drinking fountain was switched off following objections from the neighbourhood. ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "6.6.2017, 17:47:15",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "197" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06313167",
+      "longitude" : "8.318497875"
+    },
+    "GisObjectId" : 312,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496946231/Schildkro%CC%88tenbad_Zwyssigplatz3_blursg.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496946258/Schildkro%CC%88tenbad_Zwyssigplatz4_stzi2n.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496946253/Schildkro%CC%88tenbad_Zwyssigplatz1_lqiqbk.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vis à vis Zwyssigstrasse 4",
+    "LocationDesc_de_2" : "Zwissigplatz",
+    "LocationDesc_en" : "Zwyssigstrasse 4",
+    "Name" : "Zwyssigplatzbrunnen",
+    "Name_en" : "Zwyssigplatz Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Zwyssigplatz ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:24:25",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "22" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.049167",
+      "longitude" : "8.300002"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494604884/Viehmarktbrunnen_rmd8am.jpg"
+    } ],
+    "LocationDesc_de" : "Park zwischen Klosterstrasse 12A und 21 ",
+    "LocationDesc_en" : "Courtyard between Klosterstrasse 12A and 21",
+    "Name" : "Viehmarktbrunnen",
+    "Name_en" : "Cattle Market Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Vermutlich ist der Viehmarktbrunnen 1912 entstanden, als der Viehmarkt dorthin verlegt wurde. Der Erbauer des harmonischen Brunnens und des klassizistisch geformten Stocks ist unbekannt.",
+    "Story_en" : "The fountain most likely emerged in 1912 when the cattle market was relocated here. However, who carved out the harmonious, well-proportioned basin and the classically shaped floor in white granite is unknown.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1912",
+    "changedAt" : "6/4/2017, 11:15:28 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "56" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0548006",
+      "longitude" : "8.3159994"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494591474/Bacchusbrunnen_1_skcpa3.jpg"
+    } ],
+    "LocationDesc_de" : "Nationalquai hinter Casino",
+    "LocationDesc_en" : "Nationalquai behind the Casino",
+    "Name" : "Bacchusbrunnen",
+    "Name_en" : "Bacchus Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Die Bacchus-Figur, die bis 1947 den kleinen Brunnen auf der Quaipromenade am westlichen Ende des Kursaals zierte, diente als Versuchskanninchen für Sandstein-Konservierungsmittel. Allerdings mit geringem Erfolg, denn am 20. Juli 1946 teilte die Baudirektion mit: \"Der Brunnen geht seinem Ende entgegen. Versuche, den Zerfall durch Konservierungsmittel aufzuhalten, schlugen fehl.\" 1947 erhielt Steinhauer Gotthard Arnet den Auftrag den \"Junker mit Fass\" abzustossen und einen Pflanzenbehälter anzufertigen.",
+    "Story_en" : "The Bacchus figure, which adorned the small fountain of the Quaipromenade located at the western end of the Kursaal until 1947, served as a guinea pig for sandstone preservatives. This was to little success, however, as the department responsible declared July 20th 1946 that the fountain was coming to its end and that the preservatives had not worked as well as expected. In 1947 stonemason Gotthard Arnet was commissioned to get rid of the figure and replace it with a flower box.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1906",
+    "changedAt" : "6.6.2017, 15:39:14",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "55" : {
+    "Artist" : "Johannes Dub, Niklaus Borner, Andreas Rasman, Antoni Marzol",
+    "Desc_de" : "Der Brunnen besteht aus einer zweistufigen Treppenanlage, einem achteckigen Brunnentrog mit Wappenkartuschen des Stifts, der Familie Zur Gilgen und von Stadt und Republik Luzern, einem zweistufigen Brunnenstock in Form einer korinthischen Säule, die mit Fruchtgehänge (unten) und Rosen (oben) geschmückt ist und die eine Muttergottes-Figur mit Kind trägt, deren Fuss auf einer Mondsichel ruht und deren Haupt ein Heiligenschein mit goldenen Sternen trägt. Der Brunnen ist 4,5 Meter hoch. ",
+    "Desc_en" : "The fountain has two steps leading up to the octagonal basin bearing the coat-of-arms of the Stifts, the Gilgen family and the city and republic of Lucerne. A column of two parts in the shape of a Corinthian pillar is decorated with hanging fruit (below) and roses (above) with the Virgin Mary, carrying a child, at the very top of the column. At her feet lies a crescent moon and a halo of stars rests above her head. The fountain is 4.5 metres tall.  ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0554083",
+      "longitude" : "8.3133072"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595033/Marienbrunnen_Hofkirche_sgyxrq.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595041/Marienbrunnen_Hofkirche_1_rbl433.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Hofkirche ",
+    "LocationDesc_en" : "Courtyard of Hofkirche",
+    "Name" : "Stifts- oder Hofbrunnen",
+    "Name_en" : "Stifts or Courtyard Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Stiftsbrunnen gehört nicht nur zu den fotogensten, sondern auch zu den ältesten Brunnen der Stadt. Bereits 1421 nachgewiesen, veränderte er sein Aussehen im Verlauf der Geschichte mehrmals. Ab ca. 1651 war der Brunnen erstmals mit einer Marienstatue bekrönt. Der Entwurf von Brunnenstock und Brunnenfigur stammen ursprünglich vom Luzerner Bildschnitzer Johannes Dub. Niklaus Borner goss die Röhren. Der Maler Andreas Rasman fasste den Brunnenstock in Ölfarbe, Goldschmied Antoni Marzol vergoldete den mit Sternen verzierten Heiligenschein der Gottesmutter. ",
+    "Story_en" : "Not only is it one of the most photogenic fountains, it is also one of the oldest in the city. When the monastery received water rights to construct a well in the courtyard, they instructed stonemason Jakob By from Mellingen to install a fountain. However, the fountain was quickly weathered and already had to be replaced in 1651, this time by stonemason Moritz Sale Bacher. Hans Halter renewed the basin in 1680. In 1693 a small adjacent basin was added to the fountain on the northern edge. The design of the fountain's column and crowning figure was done by Lucerne sculptor Johannes Dub. Niklaus Borner moulded the tubes. The painter Andreas Rasman oil painted the column, and Goldsmith Antoni Marzol gilded the statue of the Virgin Mary.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1421",
+    "changedAt" : "7.6.2017, 17:48:04",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "163" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0593679",
+      "longitude" : "8.294183623"
+    },
+    "GisObjectId" : 290,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496939851/Topfbrunnen1_Friedhof_ost1_vvqen9.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496939851/Topfbrunnen1_Friedhof_ost2_c7osez.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern cemetery",
+    "Name" : "Friedhofbrunnen Ost",
+    "Name_en" : "Eastern Cemetery Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 10:58:14",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "26" : {
+    "Artist" : "",
+    "Desc_de" : "Der Franziskusbrunnen besteht aus einem achteckigen Becken und einem runden Stock auf dem der heilige Franziskus thront.",
+    "Desc_en" : "This fountain is comprised of an octagonal basin and a central round column upon which the holy St. Francis stands.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0499473",
+      "longitude" : "8.3031456"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494844357/barfuesser1_Kopie_judogn.jpg"
+    } ],
+    "LocationDesc_de" : "Franziskanerplatz",
+    "LocationDesc_en" : "Franziskanerplatz",
+    "Name" : "Franziskusbrunnen",
+    "Name_en" : "St. Francis Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Das Umgeldbuch von 1519 erwähnt erstmals einen Brunnen auf dem Franziskanerplatz. Die Säule mit der Figur des Heiligen dürfte jedoch erst 1684/85 entstanden sein. Das heutige Becken stammt aus dem Jahr 1739. 1908 rekonstruierte Josef Vetter die verwitterte Säule samt Statue und 1968-1970 ersetzte Leopold Häfliger diese Teile erneut. Er wählte für seine Arbeit Schmerikoner Sandstein. ",
+    "Story_en" : "The city archives mention a fountain on the Franziskanerplatz for the first time in 1519. The fountain was renovated several times in 1546, 1684, 1685, and 1739. The architect Josef Vetter reconstructed the column and the sculpture by customising a copy of St. Margrether in 1908. 1968-1970 the sculptor Leopold Häfliger replaced both the column and the figure with the current ones in sandstone from Schmerikon. The height of the entire fountain is about 8 metres - the statue alone is 1.7 metres.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1519",
+    "changedAt" : "7.6.2017, 15:06:30",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "134" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03734065",
+      "longitude" : "8.300547178"
+    },
+    "GisObjectId" : 358,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496946173/Zimmerwerkbrunnen_yqttnb.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496946191/Zimmerwerkbrunnen3_oj8ofb.jpg"
+    } ],
+    "LocationDesc_de" : "Parkplatz bei Abzweigung Murmattweg",
+    "LocationDesc_de_2" : "Eichwaldstrasse Parkplatz",
+    "LocationDesc_en" : "Parking space at Murmattweg",
+    "Name" : "Zimmerwerkbrunnen II",
+    "Name_en" : "Zimmerwerk Fountain II",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Eichwaldstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:23:22",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "50" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0531441",
+      "longitude" : "8.307871"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595934/Stiefelbrunnen_1_scjtm7.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595934/Stiefelbrunnen_xhrsbh.jpg"
+    } ],
+    "LocationDesc_de" : "Stiefelplatz ",
+    "LocationDesc_en" : "Stiefelplatz ",
+    "Name" : "Stiefelbrunnen",
+    "Name_en" : "Boot Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Stiefelbrunnen ist seit 1838 verbürgt, als der Brunnen des Waschhauses beim Lederturm an die Wand des Gasthauses zum Stiefel verlegt wurde. 1887 liess man das ehemals rechteckige Becken durch einen halbrunden Trog aus der Werkstätte des Solothurner Steinhauers Kaspar Bargetzi ersetzen. 1926 erhielt der Stiefelbrunnen seinen heutigen, tulpenförmigen Trog. Dieses aus Kalkstein gehauene, kleinere Becken wurde 1970 von Bildhauer Ruedi Weber restauriert.",
+    "Story_en" : "An old fountain was removed in 1838 from the wash houses and relocated here on the wall of the Inn Stiefel (Boot Inn). The formerly rectangular water basin was replaced in 1887 by a semicircular one from stonemason Kaspar Bargetzi’s workshop in Solothurn. The fountain received its current tulip-shaped basin in 1926. This smaller basin carved of limestone was restored in 1970 by sculptor Ruedi Weber. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1838",
+    "changedAt" : "6/4/2017, 10:58:23 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "123" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05109974",
+      "longitude" : "8.294459043"
+    },
+    "GisObjectId" : 393,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935664/Gu%CC%88tsch-Trog_Bergstrasse2_lbvruc.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Bergstation Gütschbahn",
+    "LocationDesc_de_2" : "Gütschbahn",
+    "LocationDesc_en" : "Court in front of Gütsch top station",
+    "Name" : "Gütschbrunnen",
+    "Name_en" : "Gütsch Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Gütsch ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:27:53",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "174" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05364386",
+      "longitude" : "8.285368703"
+    },
+    "GisObjectId" : 385,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945699/Wandbrunnen_Bernstrasse2_ma7nwm.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Bernstrasse 45 und Kanonenstrasse 2",
+    "LocationDesc_de_2" : "Bernstrasse Platz",
+    "LocationDesc_en" : "Square between Bernstrasse 45 and Kanonengasse 2",
+    "Name" : "Wandbrunnen Bernstrasse",
+    "Name_en" : "Wall Fountain Bernstrasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Bernstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:15:07",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "37" : {
+    "Artist" : "Jean Cattaneo ",
+    "Desc_de" : "Der Brunnen besteht aus einer Halbschale mit drei Randsprudel.",
+    "Desc_en" : "The fountain is comprised of a basin with three waterspouts on the edge.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0485685",
+      "longitude" : "8.3076153"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592498/Brunnen_Vo%CC%88geliga%CC%88rtli_cqcmkv.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592507/Brunnen_Vo%CC%88geliga%CC%88rtli_1_htfwus.jpg"
+    } ],
+    "LocationDesc_de" : "Vögeligärtli",
+    "LocationDesc_en" : "Vögeligärtli",
+    "Name" : "Vögeligärtlibrunnen",
+    "Name_en" : "Vögeligärtli Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Ein munterer Schalenbrunnen vor der Zentralbibliothek. Er wurde 1936 von Jean Cattaneo in Granitimitation geschaffen.",
+    "Story_en" : "A jolly fountain in front of the Central Library. It was created in 1936 by Jean Cattaneo in a granite imitation.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1936",
+    "changedAt" : "8.6.2017, 21:51:25",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "166" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06191791",
+      "longitude" : "8.308884731"
+    },
+    "GisObjectId" : 304,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943643/Schulhausbrunnen_Maihof1_g16scm.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943662/Schulhausbrunnen_Maihof3_be1ghc.jpg"
+    } ],
+    "LocationDesc_de" : "Schulhaus Maihof",
+    "LocationDesc_de_2" : "Maihof Schulhaus",
+    "LocationDesc_en" : "Maihof School",
+    "Name" : "Schulhausbrunnen Maihof",
+    "Name_en" : "School Fountain Maihof",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Maihofstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:41:08",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "61" : {
+    "Artist" : "Karl Mossdorf, Silvan Meyer ",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0572088",
+      "longitude" : "8.3108959"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1495712355/TrinkbrunnenLoewenplatz_2_g2ndrv.jpg"
+    } ],
+    "LocationDesc_de" : "Löwenplatz",
+    "LocationDesc_en" : "Löwenplatz ",
+    "Name" : "Löwenplatzbrunnen",
+    "Name_en" : "Fountain at Lion’s Square",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Brunnen auf dem Löwenplatz stammt aus dem Jahre 1909. Entworfen wurde der einst repräsentative Brunnen von Stadtbaumeister Karl Mossdorf. Damals allerdings ragte aus der Mitte des Troges aus Granit noch eine Säule mit einer bekrönenden Vase. 1954 war der reich verzierte Stock derart morsch, dass er enfernt werden musste. Auf einen Ersatz wurde verzichtet, stattdessen brachte man auf dem Rand des Troges zwei Rohre an, die nun das Wasser aus dem alten Brunnennetz einlaufen lassen.",
+    "Story_en" : "The fountain in the lion’s square dates back to 1909. At that time, however, there was a column crowned with a vase sticking out of the middle of the basin. By 1954 the richly ornamented column was so rotten that it had to be removed. Instead of replacing the column, two waterspouts were integrated along the edge of the basin so that passersby could have easy access to the running water.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1909",
+    "changedAt" : "6/4/2017, 12:44:27 PM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "13" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0547691",
+      "longitude" : "8.3092108"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944063/Kleinhofbrunnen_Hertensteinstrasse2_dra9ni.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944070/Kleinhofbrunnen_Hertensteinstrasse1_up6xzy.jpg"
+    } ],
+    "LocationDesc_de" : "Hertensteinstrasse 26 ",
+    "LocationDesc_en" : "Hertensteinstrasse 26 ",
+    "Name" : "Schweizerhofbrunnen",
+    "Name_en" : "Schweizerhof Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Brunnen, für den der Schweizerhof die Brunnenrechte besitzt, steht in den ehemaligen Stallungen des Hotels. 1872 wurde Oberförster Amrhyn, der damals das besagte Grundstück besass, eine Wassermenge von sechs Minutenlitern ausgewiesen. 1895 erwarben die Gebrüder Hauser die Liegenschaft samt dazugehörendem Brunnenrecht. 1905 wurden eine Pferdestallung sowie eine Schreinerei errichtet und 1913 wurde die Liegenschaft in zwei Grundstücke aufgeteilt, von denen jedes eine Brunnenleitung erhielt. Der heute bestehende Anschluss im Hofraum des Hauses Hertensteinstrasse 26 ist 1938 neu erstellt worden. Später ist die Brunnenleitung bis in die Hotelküche erweitert worden.",
+    "Story_en" : "This fountain, whose water rights are owned by the Hotel Schweizerhof, stands in the former stables of the hotel. In 1872 forester Amrhyn, landlord at the time, got the rights over a water source of six litres per minute. In 1895 the Hauser Brothers acquired the property including the well rights. In 1905 the stables and a joinery were built and in 1913 the property was divided into two plots, each of which received a fountain line. The fountain standing today in the courtyard of the house at Hertensteinstrasse 26 was erected in 1938, when the connection was renewed. The fountain line was later extended all the way into the hotel kitchen. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1938",
+    "changedAt" : "8.6.2017, 19:48:02",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "46" : {
+    "Artist" : "Moritz Räber, Emilio Stecher",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.052058",
+      "longitude" : "8.306498"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494591688/Wandbrunnen_Furrengasse_xubrlc.jpg"
+    } ],
+    "LocationDesc_de" : "Furrengasse 21",
+    "LocationDesc_en" : "Furrengasse 21",
+    "Name" : "Am-Rhyn-Brunnen",
+    "Name_en" : "Am Rhyn Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Ursprünglich stand im Hof des Am-Rhyn-Hauses ein voluminöser, quadratischer Brunnen, aus dessen Stock die üblichen sechs Minutenliter rannen. Als aber das Haus, das 1946 in den Besitz der Einwohnergemeinde überging und 1977/78 umgestaltet wurde, wollte man auch den Brunnen den neuen Gegebenheiten anpassen. Architekt Moritz Räber entwarf den Brunnen, den Steinhauermeister Emilio Stecher ausführte. Die Bauunternehmung Kopp schenkte den neuen Wasserspender der Stadt zu ihrem 800-Jahr-Jubiläum.",
+    "Story_en" : "Originally a bulky, square fountain with a water flow of six litres per minute stood in the courtyard of the Am-Rhyn-house. The house passed into the ownership of the municipality in 1946 and was renovated and redesigned in 1977/78, thus the new owners wanted to customise the fountain to suit the new appearance of the building. Architect Moritz Räber designed the fountain, which was then executed by master stonemason Emilio Stecher. The new water dispenser was a gift from the construction company Kopp, presented to the city on the town's 800th anniversary.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1978",
+    "changedAt" : "7.6.2017, 16:16:13",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "99" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05255",
+      "longitude" : "8.30480"
+    },
+    "GisObjectId" : 487,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945553/Ro%CC%88sslitra%CC%88nke1_iuhf8d.jpg"
+    } ],
+    "LocationDesc_de" : "Süesswinkel 8",
+    "LocationDesc_de_2" : "Hirschenplatz 12",
+    "LocationDesc_en" : "Süesswinkel 8",
+    "Name" : "Süesswinkelbrunnen",
+    "Name_en" : "Süesswinkel Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Hirschenplatz 12",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:12:40",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "177" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04882",
+      "longitude" : "8.30392"
+    },
+    "GisObjectId" : 350,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945245/Hofbrunnen_Obergrundstrasse2_ji6gcf.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945248/Hofbrunnen_Obergrundstrasse1_kiur5c.jpg"
+    } ],
+    "LocationDesc_de" : "Stadthauspark, Obergrundstrasse 1",
+    "LocationDesc_de_2" : "Amlehn Schulhaus",
+    "LocationDesc_en" : "Stadthauspark at Obergrundstrasse 1",
+    "Name" : "Stadthausparkbrunnen",
+    "Name_en" : "Stadthauspark Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Amlehnstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:07:36",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "24" : {
+    "Artist" : "Franz Segesser, Paul Gassner",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.050368",
+      "longitude" : "8.302556"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592247/Brunnen_Ru%CC%88tligasse_1_z71isb.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592257/Brunnen_Ru%CC%88tligasse_1_1_mggaew.jpg"
+    } ],
+    "LocationDesc_de" : "Rütligasse 2",
+    "LocationDesc_en" : "Rütligasse 2",
+    "Name" : "Chosli",
+    "Name_en" : "Chosli",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Bereits im Brunnenverzeichnis von 1595 wird ein Wasserspender in \"Hans Pfyffers selig Hus\" genannt. Erst 1751 erbaute der Bannerherr und spätere Schultheiss Franz Segesser von Brunegg den heute noch bestehenden, bedeutendsten profanen Barockbau Luzerns. Die Figur entstand jedoch erst viel später. Der Stadtluzerner Architekt, Bildhauer und Plastiker Paul Gassner (1928-2013) hat diese Figur namens \"Chosli\" erschaffen.",
+    "Story_en" : "In the fountain directory a water dispenser in \"Hans Pfyffers House\" was mentioned in 1595. It was not until 1751 that the presently standing fountain was built (in profane baroque fashion). Yet, the sculpture was made many years later. Architect and sculptor Paul Gassner (1928-2013), citizen of Lucerne, created the so-called \"Chosli\" (the spiller).",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "1751",
+    "changedAt" : "31.7.2019, 10:18:15",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "209" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06166937",
+      "longitude" : "8.28895201"
+    },
+    "GisObjectId" : 266,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941080/Kreisbrunnen_west_Friedhof1_hks3dh.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941086/Kreisbrunnen_west_Friedhof2_gw2eln.jpg"
+    } ],
+    "LocationDesc_de" : "Krematorium West",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Western crematory",
+    "Name" : "Krematoriumsbrunnen West",
+    "Name_en" : "Western Crematory Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:23:10",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "94" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05228244",
+      "longitude" : "8.304060273"
+    },
+    "GisObjectId" : 482,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935995/Hofbrunnen_Ro%CC%88ssligasse2_f89jt4.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935990/Hofbrunnen_Ro%CC%88ssligasse1_rqvq6k.jpg"
+    } ],
+    "LocationDesc_de" : "Innenhof Hochschule Design & Kunst, Rössligasse 12",
+    "LocationDesc_de_2" : "Rössligasse 16",
+    "LocationDesc_en" : "Inner court at Lucerne School of Art and Design, Rössligasse 12",
+    "Name" : "Hofbrunnen Rössligasse",
+    "Name_en" : "Court Fountain Rössligasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Rössligasse 16",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:33:24",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "83" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04392479",
+      "longitude" : "8.306747165"
+    },
+    "GisObjectId" : 378,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944803/Bleicherspringbrunnen1_wdxiu7.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944819/Bleicherspringbrunnen2_efa3be.jpg"
+    } ],
+    "LocationDesc_de" : "Parkanlage vis à vis Bleicherstrasse 17",
+    "LocationDesc_de_2" : "Bleicherstrasse Park",
+    "LocationDesc_en" : "Park opposite Bleicherstrasse 17",
+    "Name" : "Springbrunnen Bleicherstrasse 17",
+    "Name_en" : "Spring Fountain at Bleicherstrasse 17",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Bleicherstrasse ",
+    "Typ" : "type_springbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:00:25",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "35" : {
+    "Artist" : "",
+    "Desc_de" : "Das achteckige Becken verfügt über einen zentralen Stock mit zwei Ausgüssen. Die klassizistische Säule ziert eine kleine Kugel.",
+    "Desc_en" : "The octagonal basin has a central column with two waterspouts. The classical column is adorned with a small sphere.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04335",
+      "longitude" : "8.302276"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595301/Reckenbu%CC%88hlbrunnen_yzztdh.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595310/Reckenbu%CC%88hlbrunnen_1_vgukio.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Reckenbühlstrasse 2 und Guggistrasse 1 ",
+    "LocationDesc_en" : "Square between Reckenbühlstrasse 2 and Guggistrasse 1",
+    "Name" : "Reckenbühlbrunnen",
+    "Name_en" : "Reckenbühl Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der klassizistische Brunnen an der Gabelung von Reckenbühl- und Guggistrasse gehört zu jenen, die ihre Geschichte trotzig für sich behalten. Auf den Vermessungsplänen erscheint er erstmals 1907, aber sein Aussehen lässt auf ein wesentlich höheres Alter schliessen. 1944 erhielt der Brunnen einen neuen Stock aus Sandstein. ",
+    "Story_en" : "The classical fountain at the junction of Reckenbühlstrasse and Guggistrasse belongs to those who keep their story defiantly for themselves. It appeared in survey plans for the first time in 1907, but its appearance suggests a much older age. The well was given a new column made of sandstone in 1944.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "3.6.2017, 20:00:00",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "233" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05103325",
+      "longitude" : "8.25881129"
+    },
+    "GisObjectId" : 511,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933356/Paarbrunnen_Littau3_bnhu14.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933359/Paarbrunnen_Littau2_vc8dqc.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Cheerstrasse 2 und Gasshofstrasse 1",
+    "LocationDesc_de_2" : "Grubenstrasse Platz",
+    "LocationDesc_en" : "Square between Cheerstrasse 2 und Gasshofstrasse 1",
+    "Name" : "Dorfbrunnen Littau",
+    "Name_en" : "Littau Village Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Grubenstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:49:27",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "16" : {
+    "Artist" : "Josef Vetter, Karl Mossdorf, Urban Dindo, Traugott Niederberger, Bernhard Ernst",
+    "Desc_de" : "Achteckiges Becken mit zentralem Stock und Tellfigur.",
+    "Desc_en" : "Octagonal basin with a central column and figure of Tell. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.043927",
+      "longitude" : "8.303303"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494596013/Tellbrunnen_b8s55g.jpg"
+    } ],
+    "LocationDesc_de" : "Lindengarten",
+    "LocationDesc_en" : "Lindengarten",
+    "Name" : "Tellbrunnen",
+    "Name_en" : "Tell Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Tellbrunnen im Lindegarten ist mit Abstand der voluminöseste Wasserspender des Quartiers. Der patriotische Tellbrunnen wurde von Stadtbaumeister Karl Mossdorf nicht für den Lindengarten, sondern für den Pilatusplatz entworfen, wo er von 1912 bis 1935 stand. Dann musste er dem zunehmenden Verkehr weichen. Der Tellbrunnen ist ein Beispiel für die Zusammenarbeit damaliger Künstler. Bildhauer Hugo Siegwart modellierte die 1,8m hohe Tellfigur, die Steinhauer Urban Dindo und Traugott Niederberger meissleten Becken und Stock, Josef Vetter die Wappen der acht alten Orte und Berhard Ernst goss die Röhren und Masken. ",
+    "Story_en" : "The Tell fountain at the Lindengarten is by far the most voluminous water dispenser of the quarter. The patriotic Tell fountain was designed by city architect Karl Mossdorf, but not for Lindengarten, it was actually intended for the Pilatusplatz where it stood from 1912 until 1935. It then had to give way to increasing traffic and was moved to its present location. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1912",
+    "changedAt" : "6/4/2017, 12:14:17 PM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "79" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04488951",
+      "longitude" : "8.304567934"
+    },
+    "GisObjectId" : 445,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933051/Prinzenbrunnen_Obergrundstrasse2_qcrzgw.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933067/Prinzenbrunnen_Obergrundstrasse3_cyifzq.jpg"
+    } ],
+    "LocationDesc_de" : "Obergrundstrasse 61",
+    "LocationDesc_de_2" : "Obergrundstrasse 61 (West)",
+    "LocationDesc_en" : "Obergrundstrasse 61",
+    "Name" : "Brunnen Obergrundstrasse",
+    "Name_en" : "Fountain at Obergrundstrasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Obergrundstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:44:32",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "5" : {
+    "Artist" : "",
+    "Desc_de" : "Der sehr ergiebige Born mit steinernem Stock und langem Trog besitzt den Charakter eines Dorfbrunnens. Sein Wasser sammelt sich in einem kleinen, mit Seerosen bepflanzten Teich.",
+    "Desc_en" : "This proud fountain with a stone column and a long trough has the character of a village well. Its water is collected from a small pond planted with lilies.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06040",
+      "longitude" : "8.34760"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494600875/Trinkbrunnen_Sonnmatt_2_lq6rwk.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494600998/Trinkbrunnen_Sonnmatt_1_vgz6ry.jpg"
+    } ],
+    "LocationDesc_de" : "Hemschlenstrase 638",
+    "LocationDesc_en" : "Hemschlenstrasse 638",
+    "Name" : "Sonnmattbrunnen",
+    "Name_en" : "Sonnmatt Fountain ",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Auf privatem Areal liegt der Brunnen beim Kurhaus Sonnmatt. Der urbane Wasserspender im kleinen Park hinter dem Haus erinnert daran, dass der Hof Hemschlen immer über eigenes Wasser verfügte. Dieses reichte anfänglich selbst für das 1908/09 erbaute Kurhaus, das erst 1935 an das städtische Leitungsnetz angeschlossen wurde. ",
+    "Story_en" : "The fountain is located on private grounds at the Kurhaus Sonnmatt. The urban water dispenser in the small park behind the house confirms that Court Hemschlen always had its own water. The private spring was exclusively used to serve the needs of the house, built in 1908/09, until it was connected to the city water network in 1935. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1908/09",
+    "changedAt" : "6/4/2017, 10:48:31 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "72" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04583973",
+      "longitude" : "8.30390904"
+    },
+    "GisObjectId" : 436,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935466/Uru%CC%88tlerbrunnen5_gdbmrt.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935463/Uru%CC%88tlerbrunnen4_ezj7yl.jpg"
+    } ],
+    "LocationDesc_de" : "Obergrundstrasse 46",
+    "LocationDesc_de_2" : "Obergrundstrasse 46 (KDS: 58)",
+    "LocationDesc_en" : "Obergrundstrasse 46",
+    "Name" : "Grütterbrunnen",
+    "Name_en" : "Grütter Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Obergrundstrasse 46",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:24:42",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "10" : {
+    "Artist" : "",
+    "Desc_de" : "Quadratischer Trog mit seitlichem rundem Stock mit schildhaltendem Löwen.",
+    "Desc_en" : "Quadratic trough with a round column bearing a shield wielding lion.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.050645",
+      "longitude" : "8.304494"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594583/Lo%CC%88wenbrunnen_1_ej3nn8.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594584/Lo%CC%88wenbrunnen_2_t85zpn.jpg"
+    } ],
+    "LocationDesc_de" : "Jesuitenplatz",
+    "LocationDesc_en" : "Jesuits Square",
+    "Name" : "Löwenbrunnen",
+    "Name_en" : "Lion Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Löwenbrunnen ziert den neuen Jesuitenplatz vor dem Mettenwylhaus. Aufgestellt wurde der voluminöse Brunnen 1980 als ein um zwei Jahre verspätetes Geschenk des Kantons an die Stadt zu deren 800-Jahre-Jubiläum. Die Stadt konnte den Standort des Geschenkes selbst bestimmen und wählte ihn interssanterweise so, dass der Löwe auf dem Stock seine Zunge respektlos gegen die Jesuitenkirche streckt. Der quadratische Granittrog ist über 250 Jahre alt und trägt das Datum 1733. Für welchen Platz dieser vorgesehen war und wie genau er seinen Weg zu seinem heutigen Standort fand, ist nicht überliefert. \n",
+    "Story_en" : "The Lion fountain adorns the new Jesuits square in front of the Mettenwyl House.The voluminous fountain was mounted in 1980 as a two year overdue gift from the state of Lucerne to the city of Lucerne, in commemoration of its 800 year anniversary. The city was able to choose the location of its new gift, and interestingly chose to place it so that the tongue of the lion \"disrespectfully\" points towards the Jesuits church opposite. The quadratic granite trough is over 250 years old and bears the year 1733. \n",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1980",
+    "changedAt" : "31.5.2017, 21:08:15",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "199" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06188187",
+      "longitude" : "8.290321219"
+    },
+    "GisObjectId" : 274,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496998982/Halbmond1_Friedhofsbrunnen_ost_puhlzy.jpg"
+    } ],
+    "LocationDesc_de" : "Krematorium Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern crematory",
+    "Name" : "Krematoriumsbrunnen Ost III",
+    "Name_en" : "Eastern Crematory Fountain III",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:04:52",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "159" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06001503",
+      "longitude" : "8.296223705"
+    },
+    "GisObjectId" : 293,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496948539/Topfbrunnen3_Friedhof_ost_ftswkj.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern Cemetery",
+    "Name" : "Friedhofbrunnen Ost III",
+    "Name_en" : "Eastern Cemetery Fountain III",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 10:58:44",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "59" : {
+    "Artist" : "Rolf Nyffeler",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0551455",
+      "longitude" : "8.3045864"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595880/Speuzerbrunnen_3_vgfm4f.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595892/Speuzerbrunnen_1_xpgqwo.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Schirmerstrasse und Schirmertorweg ",
+    "LocationDesc_en" : "Court between Schirmerstrasse and Schirmertorweg",
+    "Name" : "Speuzerbrunnen",
+    "Name_en" : "Speuzer Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Die Bezeichnung stammt von Stadtpräsident Franz Kurzmeyer, der bei der Übergabe die Bezeichnung \"Speutzi-Brunnen\" verwendet hat.",
+    "Story_en" : "The name of this fountain comes from mayor Franz Kurzmeyer, who upon its placement alluded to it as the \"Spitter-Fountain.\"",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "6/4/2017, 10:52:01 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "144" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03765903",
+      "longitude" : "8.315495249"
+    },
+    "GisObjectId" : 372,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933274/Dorfbrunnen_jddwc2.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933276/Dorfbrunnen4_s0x9mp.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vis à vis Dorfstrasse 31",
+    "LocationDesc_de_2" : "Dorfstrasse Platz",
+    "LocationDesc_en" : "Square opposite Dorfstrasse 31",
+    "Name" : "Dorfbrunnen",
+    "Name_en" : "Village Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Dorfstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:48:02",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "196" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0521367",
+      "longitude" : "8.280970507"
+    },
+    "GisObjectId" : 384,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496932740/Balz-Camenzind-Brunnen_fc8lv5.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496932741/Balz-Camenzind3_f7pwu9.jpg"
+    } ],
+    "LocationDesc_de" : "Pausenplatz Schulhaus Grenzhof, vis à vis Luzernerstrasse 30",
+    "LocationDesc_de_2" : "Grenzhof Schulhaus",
+    "LocationDesc_en" : "Schoolyard Grenzhof",
+    "Name" : "Balz-Camenzind-Brunnen",
+    "Name_en" : "Balz-Camenzind Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Bernstrasse ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:39:18",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "48" : {
+    "Artist" : "Paul Segesser",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.052329",
+      "longitude" : "8.307285"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494605148/Wandbrunnen_Furrengasse_1_mgwpfl.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494605171/Wandbrunnen_Furrengasse_qidcrx.jpg"
+    } ],
+    "LocationDesc_de" : "Furrengasse  4",
+    "LocationDesc_en" : "Square between Furrengasse 2 and 4",
+    "Name" : "Furrengassbrunnen",
+    "Name_en" : "Furrengass Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der heutige Wandbrunnen stammt aus dem Jahre 1888. Er wurde von Architekt Paul Segesser als Ersatz für ein grösseres und älteres Exemplar entworfen.",
+    "Story_en" : "This fountain dates back to the year 1888. It was designed by architect Paul Segesser as a substitute for a larger and older fountain that stood at the same place. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1888",
+    "changedAt" : "30.5.2017, 18:49:51",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "21" : {
+    "Artist" : "Traugott Niederberger",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0491962",
+      "longitude" : "8.299439"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494591787/Brunnen_Hochbu%CC%88hlstrasse_tn7s6a.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494591799/Brunnen_Hochbu%CC%88hlstrasse_1_gxb3id.jpg"
+    } ],
+    "LocationDesc_de" : "Hochbühlstrasse 1",
+    "LocationDesc_en" : "Hochbühlstrasse 1",
+    "Name" : "Hochbühlbrunnen",
+    "Name_en" : "Hochbühl Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "1914 haute Traugott Niederberger den Trog. Der Trinkbrunnen ist an eine Umfassungsmauer vor der Liegenschaft Hochbühlstrasse 1 gestellt worden.",
+    "Story_en" : "The fountain was carved in 1914 by Traugott Niederberger and receives water from the Gütsch well.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1914",
+    "changedAt" : "6.6.2017, 16:28:31",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "116" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04355741",
+      "longitude" : "8.316018575"
+    },
+    "GisObjectId" : 375,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943400/Ro%CC%88sslimatt54_rvn4ut.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943401/Ro%CC%88sslimatt54_2_wycyx3.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Rösslimatte 54 und Cécile-Lauber-Gasse 10",
+    "LocationDesc_de_2" : "Rösslimatte Platz",
+    "LocationDesc_en" : "Rösslimatte 54",
+    "Name" : "Rösslimattbrunnen",
+    "Name_en" : "Rösslimatt Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Rösslimatte ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:36:48",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "138" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0369527",
+      "longitude" : "8.312107131"
+    },
+    "GisObjectId" : 370,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945306/Sternenbrunnen_extgxb.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Rodteggstrasse 3 und Sternmattstrasse 50",
+    "LocationDesc_de_2" : "Rodteggstrasse Heim",
+    "LocationDesc_en" : "Court between Rodteggstrasse 3 und Sternmattstrasse 50",
+    "Name" : "Sternenbrunnen",
+    "Name_en" : "Sternen Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Rodteggstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:08:45",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "54" : {
+    "Artist" : "Bruno Schmitz, Urban Dindo, Traugott Niederberger",
+    "Desc_de" : "Wuchtiger kreisrunder Trog auf einem Sockel mit Treppenstufen und die Düse im Zentrum. Der mit bronzenen Jugendstil-Löwenköpfen verzierte Wasserbehälter aus massivem Granit wiegt 13 Tonnen. ",
+    "Desc_en" : "A massive raised circular trough with a water jet at the centre. This granite fountain, adorned with bronze lion head waterspouts, weighs an astounding 13 tonnes. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0545683",
+      "longitude" : "8.3135088"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595203/OstspringbrunnenNationalquaiMusikpavillon_4_pm04tl.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595213/OstspringbrunnenNationalquaiMusikpavillon_3_ssbbtu.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Musikpavillon",
+    "LocationDesc_en" : "Courtyard in front of the music pavilion",
+    "Name" : "Ostspringbrunnen Nationalquai Musikpavillon",
+    "Name_en" : "Eastern Spring Fountain at Nationalquai",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "West- und Ostspringbrunnen sind Zwillingsbrunnen und dürfen in dieser Art als Besonderheit betrachtet werden. In Luzern steht das Paar sogar einzigartig da. Sie sind integrale Bestandteile der vom Berliner Professor Bruno Schmitz zu Beginn des 20. Jahrhunderts bis ins letzte Detail entworfenen Parkanlage.",
+    "Story_en" : "The western and eastern spring fountains are twin fountains and are thereby unique. They are integral components of the park designed down to the last detail by Berlin professor Bruno Schmitz at the beginning of the 20th century. ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "1908",
+    "changedAt" : "19.6.2017, 14:40:01",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "43" : {
+    "Artist" : "Pankraz Labenwolf, Heinrich Viktor Segesser",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "FountainTour_de" : "Dieser Brunnen ist Teil einer offiziellen Brunnen-\n und Wasserführung. Informiere Dich bei luzern.com/de/brunnentratsch oder nachtwächterralf.ch.",
+    "FountainTour_en" : "This fountain is part of a official fountain and water tour. For further information check http://www.luzern.com/en/brunnentratsch or nightwatchman.ch.",
+    "GeoLocation" : {
+      "latitude" : "47.052306",
+      "longitude" : "8.305089"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594339/Gaensemaennchenbrunnen_1_ksk3ts.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594339/Gaensemaennchenbrunnen_2_fnet1i.jpg"
+    } ],
+    "LocationDesc_de" : "Hirschenplatz ",
+    "LocationDesc_en" : "Hirschenplatz ",
+    "Name" : "Gänsemännchenbrunnen",
+    "Name_en" : "Man with Geese Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Gänsemännchen Brunnen ersetze 1891 den zum Mühleplatz verlegten Neptunbrunnen. Die Idee stammt von Heinrich Viktor Segesser, ausgeführt werden konnte sie dank der Spendefreudigkeit von Goldschmied Carl Bossard-Brunner. Im germanischen Museum in Nürnberg liess Bossard auf eigene Kosten eine Kopie des Gänsemännchens anfertigen, das Pankraz Labenwolf 1530 gegossen hatte. Damit verhalf er der Stadt zu einer Luzerner Version des Nürnberger Gänsemännchenbrunnens. Das Männchen kann als Bauer, der seine Gänse zum Markt der Stadt trägt, gedeutet werden.",
+    "Story_en" : "In 1891 the Man with Geese fountain replaced the Neptune fountain, which was moved to Mühleplatz. The idea came from Heinrich Viktor Segesser and its realisation was possible thanks to Carl Bossard-Brunner’s donation. Bossard ordered a copy of the geese man casted by Pankraz Labenwolf in 1530, which is to be found in the Germanic Museum in Nuremberg. This way he enabled the city to have a Lucerne version of the Nuremberg Man with Geese Man fountain, though the copy does not exactly match the original.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1891",
+    "changedAt" : "8.6.2017, 20:54:41",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "65" : {
+    "Artist" : "Josef Zurkirchen",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0567818",
+      "longitude" : "8.3167051"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595855/Scha%CC%88flibrunnen_ezvflm.jpg"
+    } ],
+    "LocationDesc_de" : "Alter Friedhof vis à vis Abendweg 6",
+    "LocationDesc_en" : "Old cemetry opposite Abendweg 6",
+    "Name" : "Schäflibrunnen",
+    "Name_en" : "Little Sheep Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der sympathische Nischenbrunnen verziert die Stützmauer des alten Friedhofs hinter der Hofkirche. Als Brunnenfigur schuf Bildhauer Josef Zurkirchen ein Schaf in Bronze, während er den Trog in Granit meisselte. Dieser im Volksmund \"Schäflibrunnen\" genannte Wasserspender steht seit 1937 an seinem Platz.",
+    "Story_en" : "A pleasant niche fountain decorates the retaining wall of the old cemetery behind the Hofkirche. The sculptor Josef Zurkirchen created a grazing lamb out of bronze and chiselled the basin out of granite. This water dispenser has pleased passersby since 1937.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1937",
+    "changedAt" : "10.6.2017, 11:26:12",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "71" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04882",
+      "longitude" : "8.30369"
+    },
+    "GisObjectId" : 414,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945010/Trinkbrunnen_Innenhof_Obergrundstrasse1_fzottf.jpg"
+    } ],
+    "LocationDesc_de" : "Stadthauspark, Obergrundstrasse 1",
+    "LocationDesc_de_2" : "Obergrundstrasse",
+    "LocationDesc_en" : "Stadthauspark at Obergrundstrasse 1",
+    "Name" : "Stadthausparkbrunnen II",
+    "Name_en" : "Stadthausparkbrunnen II",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Obergrundstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:03:40",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "57" : {
+    "Artist" : "Franco Annoni",
+    "Desc_de" : "Ein stolzer Hahn, aus Bronze gegossen, steht keck auf einer Vierkantsäule aus grünem Serpentin, aus der vier Rohre Wasser in ein rundes Becken spritzen lassen.",
+    "Desc_en" : "A proud rooster, engraved in bronze, stands boldly on top of a quadratic column of green serpentine, from which four waterspouts release water into the round basin. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.052413",
+      "longitude" : "8.305747"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594176/Gockelbrunnen_1_dr31r5.jpg"
+    } ],
+    "LocationDesc_de" : "Werchlaubengässli ",
+    "LocationDesc_en" : "Werchlaubengässli ",
+    "Name" : "Gockelbrunnen",
+    "Name_en" : "Rooster Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Gockelbrunnen, den Franco Annoni 1961 geschaffen hat, fand an seinem usprünglichen Ort, dem Krienbrüggliplatz, keine ruhige Bleibe. Zwei Jahre nach ihrer Enthüllung war die Brunnenfigur eines Nachts verschwunden. Diebe hatten sie nach Dierikon verschleppt. In einer Scheune wurde der Gockel gefunden und nach Luzern zurückgebracht, wo er bedeutend kräftiger mit seiner Unterlage verankert wurde. Als der Stadtrat 1978 den Platz einebnen und als monumentale Krönung den ehemaligen Buobenmattbrunnen aufstellen liess, wurde der Gockel in das Werchlaubengässli verlegt. Doch dort verschwand die Plastik 1983 endgültig. Franco Annoni fertigte eine Kopie an, wobei er Schweif, Behang und Hals des Gockels detaillierter gestaltete. 1985 wurde die Kopie wiederum im Werchlaubengässli aufgestellt. ",
+    "Story_en" : "Franco Annoni originally created the Rooster Fountain in 1961 for the Krienbrüggliplatz. Unfortunately, it had a difficult time at its original home. One night, two years after its unveiling, the fountain’s figure was gone. Thieves had taken it to Dierikon, where the rooster was found in a barn. It was brought back to Lucerne, where it was firmly reattached to its base. When the city council levelled the square in 1978, they placed the former Buobenmatt fountain in place of the rooster, which was moved to the Werchlaubengässli. But even there, the sculpture disappeared not long after in 1983. Luckily, Franco Annoni had made a copy of it, giving priority to the tail, the plumage and the neck of the rooster. In 1985, the copy was in turn placed at Werchlaubengässli, where it remains today.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1961",
+    "changedAt" : "7.6.2017, 16:27:49",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "202" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06176415",
+      "longitude" : "8.289786526"
+    },
+    "GisObjectId" : 271,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496939588/Steinbrunnen_Friedhof_ost2_tlnbrk.jpg"
+    } ],
+    "LocationDesc_de" : "Krematorium Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern crematory",
+    "Name" : "Krematoriumsbrunnen Ost",
+    "Name_en" : "Eastern Crematory Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:00:47",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "32" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.041742",
+      "longitude" : "8.301838"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595966/Taubenhausbrunnen_1_n5kdjk.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595969/Taubenhausbrunnen_hljv3x.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Taubenhausstrasse 28 und Obergrundstrasse 94 ",
+    "LocationDesc_en" : "Square between Taubenhausstrasse 28 and Obergrundstrasse 94",
+    "Name" : "Taubenhausbrunnen",
+    "Name_en" : "Dovecote Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "\n",
+    "Story_en" : "",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1916",
+    "changedAt" : "25.5.2017, 13:32:15",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "106" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04187747",
+      "longitude" : "8.310535346"
+    },
+    "GisObjectId" : 377,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496936111/Industriestrasse_oujazv.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496936127/Industriestrasse2_kdcxvk.jpg"
+    } ],
+    "LocationDesc_de" : "Platz bei Industriestrasse 6, Abzweigung Fruttstrasse",
+    "LocationDesc_de_2" : "Industriestrasse Parkplatz",
+    "LocationDesc_en" : "Square at Industriestrasse 6",
+    "Name" : "Industriestrassenbrunnen",
+    "Name_en" : "Fountain at Industriestrasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Industriestrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "26.6.2017, 12:07:51",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "49" : {
+    "Artist" : "August Am Rhyn, Arthur Bertola ",
+    "Desc_de" : "Bemerkenswert ist die Neurenaissance-Säule, welche die Tradition der Zunft zu Safran versinnbildlicht. Über einem Kranz von Akanthusblättern blicken die Masken der Fritschi-Familie in alle vier Richtungen über den Platz. Darüber befindet sich ein Gehänge mit weiteren Masken und zuoberst steht auf einem korynthisierenden Kapitell ein geharnischter Bannerträger. Der granitene Trog, der Sockel und die Stufen wiegen zusammen 17 Tonnen.",
+    "Desc_en" : "The neo-renaissance columns are noteworthy, as they symbolise the traditions of the Safran Guild. The masks of the Fritschi family gaze out over the square in four directions, over a wreath of acanthus leaves.  More masks are to be seen above and at the very top stands an armour-clad standard bearer. The granite trough, the pedestal and all its levels weigh an astounding 17 tonnes in total.  ",
+    "Enabled" : true,
+    "FountainTour_de" : "Dieser Brunnen ist Teil einer offiziellen Brunnen-\n und Wasserführung. Informiere Dich bei luzern.com/de/brunnentratsch oder nachtwächterralf.ch.",
+    "FountainTour_en" : "This fountain is part of a official fountain and water tour. For further information check http://www.luzern.com/en/brunnentratsch or nightwatchman.ch.",
+    "GeoLocation" : {
+      "latitude" : "47.052605",
+      "longitude" : "8.3076889"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594099/Fritischibrunnen4_ol0noa.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494594122/Fritschibrunnen_2_i50qll.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494867210/Fritischibrunnen_tmwcjk.jpg"
+    } ],
+    "LocationDesc_de" : "Kapellplatz ",
+    "LocationDesc_en" : "Kapellplatz ",
+    "Name" : "Fritschibrunnen",
+    "Name_en" : "Fritschi Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Das wasserspendende Wahrzeichen Bruder Fritschis ist vollumfänglich ein Erzeugnis des 20. Jahrhunderts. Idee und Entwurf stammen vom Luzerner Architekten August am Rhyn. Erinnern soll der 1918 aufgestellte Brunnen an die jahrhundertealte, legendäre Gestalt des Bruder Fritschi, dessen Grab sich unter dem Brunnen auf dem Kapellplatz, einem ehemaligen Friedhof, befinden soll. Die Hälfte der Kosten übernahm die Zunft zu Safran, die sich dafür ein Mitspracherecht bei allfälligen späteren Renovationen gesichert hat. Heute würdigt die Zunft den Brunnen an der Fasnacht, indem sie am Schmutzigen Donnerstag jeweils dreimal um den Brunnen fährt, während das umstehende Volk mit Orangen beworfen wird.",
+    "Story_en" : "This landmark devoted to the Fritschi Brothers was constructed in the 20th century. The concept and design came from Lucerne architect August am Rhyn. The fountain acts as a reminder of the centuries-old, legendary figures of the Fritschi Brothers, whose graves are to be found under the Kapellplatz fountain, where a cemetery once stood. Half of the cost was paid by the Safran Guild, so that they could have a say in future renovations. Today the fountain is acknowledged during Carnival: it is paraded around three times on \"Dirty Thursday\", while bystanders have oranges thrown at them. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1918",
+    "changedAt" : "8.6.2017, 20:54:21",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "6" : {
+    "Artist" : "",
+    "Desc_de" : "Ein würfelförmiger Betonkubus mit aufgesetzter Röhre dient als Trog, der auf einem Betonsockel ruht. Der Brunnen wird vor allem von Carchauffeuren geschätzt, weil er ihnen ermöglicht, ihre Fahrzeuge zu pflegen. ",
+    "Desc_en" : "Who was General Wagner? Nobody knows. Maybe a shadow? May he really was Spiderman? In the context of contemporarian, contrarian literature, General Wagner served his cause (without hesitation to cluelessness) with great dignity and aspiration. A true hero, he ate marmelade (or marmite) from Belgium every day. Confidence, Preference, and Indifference are the qualities through which he sustained himself throughout the years in the service. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0498407",
+      "longitude" : "8.3410728"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494600388/Trinkbrunnen_Lido_Seeburg_ozxm7k.jpg"
+    } ],
+    "LocationDesc_de" : " Parkplatz vis à vis Seeburgstrasse 35 ",
+    "LocationDesc_en" : "Parking lot in front of Seeburgstrasse 35",
+    "Name" : "General Wagner Brunnen",
+    "Name_en" : "Il Generale Wagner Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "15.9.2017, 19:23:07",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "126" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04666654",
+      "longitude" : "8.319927758"
+    },
+    "GisObjectId" : 450,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496932908/Vogelbrunnen_Bootshafen3_bts1fc.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496932911/Vogelbrunnen_Bootshafen5_zyxida.jpg"
+    } ],
+    "LocationDesc_de" : "Bootshafen",
+    "LocationDesc_de_2" : "Bootshafen",
+    "LocationDesc_en" : "Bootshafen",
+    "Name" : "Bootshafenbrunnen ",
+    "Name_en" : "Bootshafen Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Alpenquai 25",
+    "Typ" : "type_sprudelbrunnen",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:33:15",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "36" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.046514",
+      "longitude" : "8.309448"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606244/Wandbrunnen_Sempacherstrasse_gbuu6n.jpg"
+    } ],
+    "LocationDesc_de" : "Sempacherstrasse 25 ",
+    "LocationDesc_en" : "Sempacherstrasse 25",
+    "Name" : "Sempacherbrunnen",
+    "Name_en" : "Sempacher Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "6.6.2017, 18:26:52",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "1" : {
+    "Artist" : "",
+    "Desc_de" : "Ein äusserst schlicht gestalteter Brunnen. Als Quellengrund dient ein Eiszeitfindling, aus dem das Wasser durch eine Bronzeröhre in eine Vertiefung des Steins rinnt. ",
+    "Desc_en" : "The stone of this simply designed fountain dates back to the glacial period. The water runs through a bronze tube and falls into a natural recess in the stone.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.060074",
+      "longitude" : "8.324023"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494596180/Trinkbrunnen_Dietischiberg_jxldxr.jpg"
+    } ],
+    "LocationDesc_de" : "Gundoldingenplatz",
+    "LocationDesc_en" : "Gundoldingenplatz",
+    "Name" : "Dietschibergbrunnen",
+    "Name_en" : "Dietschiberg Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1970",
+    "changedAt" : "30.5.2017, 10:01:57",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "39" : {
+    "Artist" : "Armin Meili ",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0510699",
+      "longitude" : "8.3122607"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494604959/Wagenbach_pv5zpo.jpg"
+    } ],
+    "LocationDesc_de" : "Europaplatz",
+    "LocationDesc_en" : "Europaplatz",
+    "Name" : "Wagenbachbrunnen",
+    "Name_en" : "Wagenbach Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Story_de" : "Die Vorgeschichte des Wagenbachbrunnens ist über 30 Jahre alt. Der Uhrmacher Xaver Wagenbach, der damals ein Häuschen am Schwanenplatz bewohnte, war es Leid dass seine Haushälterin die schweren Wasserkessel immer vom Einhornbrunnen zum Haus schleppen musste. 1870 hinterliess Wagenbach ein Testament, in dem er der Stadt Geld für einen öffentlichen Brunnen auf dem Schwanenplatz vermachte. 1875, als erstmals Wasser vom Eigenthal in die Häuser floss, drängte sich ein öffentlicher Wasserspender nicht mehr auf. Erst als die Stadt 1930 Armin Meili beauftragte das Kunst- und Kongresshaus zu entwerfen, empfahl Meili, den Vorplatz dieses neuen gesellschaftlichen Zentrums mit einer Pferdegruppe und einem Monumentalbrunnen zu schmücken. Am 01. August 1934 schossen erstmals die 16 Wasserstrahlen in die Höhe. Die obere Schale besitzt einen Durchmesser von zehn Metern und fasst 26'000 Liter Wasser. Die untere Schale hat gar einen Durchmesser von 14,3 Meter und fasst 86'000 Liter Wasser. Die Strahlhöhe der Düsen beträgt normalerweise zehn Meter, bei ungünstiger Wetterlage kann sie aber auf 50 Zentimeter reduziert werden. Das auf einem Stufensockel ruhende untere Becken trägt die Inschrift \"Dem Andenken an Xaver Wagenbach (1796-1870)\".",
+    "Story_en" : "The history of the Wagenbach fountain is around 150 years old. Wagenbach, who inhabited a small house at Schwanenplatz, was often distressed by the fact that his housekeeper had to carry a heavy bucket of water from the Unicorn fountain to the house every day. In 1870 Wagenbach left money to the city in his will, so that a public fountain could be erected at Schwanenplatz. In 1875 water from the Eigental started to flow into nearby households, meaning that the demand for a public water dispenser was no longer so high. It was not until the city commissioned Armin Meili to design the Art and Congress Centre (KKL) that Meili suggested decorating the forecourt of the new social centre with a group of horses and a monumental fountain. Hence, Wagenbach’s memory was honoured. It consists of 16 water jets, each one usually reaching 10 metres high. They may, however, be reduced to only 50 centimetres in case of unfavourable weather conditions. The upper basin has a diameter of ten metres and holds 26,000 litres of water. The lower basin has a diameter of 14.3 meters and holds 86,000 litres of water. This rests on a graded base bearing the inscription: \"In Memory of Xaver Wagenbach (1796-1870).\"",
+    "Typ" : "type_springbrunnen",
+    "Year" : "1934",
+    "changedAt" : "7.6.2017, 17:50:56",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "140" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05839755",
+      "longitude" : "8.310890219"
+    },
+    "GisObjectId" : 501,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933200/Denkmalweiher2_eetgal.jpg"
+    } ],
+    "LocationDesc_de" : "Löwendenkmal",
+    "LocationDesc_de_2" : "Löwendenkmal",
+    "LocationDesc_en" : "Lion Monument",
+    "Name" : "Denkmalweiher",
+    "Name_en" : "Monument Pond",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Story_de" : "Der Weiher vor dem Löwendenkmal dient als Wunschbrunnen.",
+    "Story_en" : "The pond at the Lion Monument serves as a wishing fountain.",
+    "Street" : "Denkmalstrasse ",
+    "Typ" : "type_weiher",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:46:46",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "173" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05973728",
+      "longitude" : "8.293238449"
+    },
+    "GisObjectId" : 289,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945596/Karobrunnen_Talfriedhof1_qbv1uc.jpg"
+    } ],
+    "LocationDesc_de" : "Talfriedhof",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Valley cemetery",
+    "Name" : "Talfriedhofbrunnen",
+    "Name_en" : "Valley Cemetery Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:24:12",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "17" : {
+    "Artist" : "Karl Mossdorf, Urban Dindo, Traugott Niederberger",
+    "Desc_de" : "Im viereckigen Trog mit bauchenden Seiten und zwei kleinen Nebenbecken steht ein zentraler, quadratischer Stock mit zwei Ausläufen. Auf dem Stock steht eine grosse, leere Vase.",
+    "Desc_en" : "The quadratic trough has two small side basins and a central, quadratic column with two waterspouts. A large, empty vase sits on top of the column. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.045687",
+      "longitude" : "8.306508"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592595/Bundesplatzbrunnen_vrel59.jpg"
+    } ],
+    "LocationDesc_de" : "Helvetiagärtli",
+    "LocationDesc_en" : "Helvetiagärtli",
+    "Name" : "Bundesplatzbrunnen",
+    "Name_en" : "National Square Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Entworfen wurde der Bundesplatzbrunnen von Stadtbaumeister Karl Mossdorf, die Steinhauermeister Urban Dindo und Traugott Niederberger meisselten den Entwurf in Granit. Ursprünglich hatte der Brunnen einen bedeutend höheren Stock in Form einer quadratischen, verzierten Säule. Als aber der Brunnen 1935 an den Rand des Platzes verdrängt wurde, erhielt er eine Vase als neue Stockbekrönung. Gleichzeitig wurden dabei die seitlichen Stockverzierungen entfernt. In den 90er-Jahren behinderte er zunehmend den Verkehrsfluss am Bundesplatz. Da zur selben Zeit das Helvetiagärtli auf Initiative der Nachbarschaft wiederbegrünt und aufgewertet wurde, fand der Brunnen bald zu seinem heutigen Standort. ",
+    "Story_en" : "The fountain was designed in granite by city master builder Karl Mossdorf, stonemason Urban Dindo and Traugott Niederberger. Originally, the fountain had a significantly higher base in the form of a square ornate column. This was substituted by a vase in 1935 when the fountain was relocated to the edge of the court. At the same time, the lateral floor decorations were removed. The central piece is decorated with flowers in summer. During the 90s, the fountain was getting in the way of increasing traffic on the National Square (Bundesplatz). At the same time, the Helvetiagärtli was revamped by the neighbourhood, and so, to eleviate traffic, the Bundesplatz fountain was relocated to its current home. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1910",
+    "changedAt" : "10.6.2017, 11:38:28",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "25" : {
+    "Artist" : "Heinrich Krugel, Arthur Bertola",
+    "Desc_de" : "Der Marienbrunnen besteht aus einem rechteckigen Trog aus Granit, einem Brunnenstock mit quadratischem bzw. rundem Querschnitt und einer polychrom gefassten Marienfigur aus Sandstein. Die Höhe von 4,8 m verleiht dem Brunen eine besonders eindrückliche Gesamtwirkung.",
+    "Desc_en" : "The Madonna fountain consists of a rectangular granite basin, a column with square and circular cross sections and a polychrome statue of the Madonna in sandstone. The height of 4.8 m gives the fountain a particularly impressive overall effect.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.049442",
+      "longitude" : "8.3031856"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494866855/spitalbrunnen_setskr.jpg"
+    } ],
+    "LocationDesc_de" : "Park vor Franziskanerkirche",
+    "LocationDesc_en" : "Park in front of Franziskanerkirche",
+    "Name" : "Marienbrunnen",
+    "Name_en" : "Fountain of The Madonna",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Marienbrunnen wurde 1652 von Heinrich Krugel für den damals im Bau befindlichen Spital im Obergrund geschaffen. 1923, nach der Schliessung des Spitals, verlor der Brunnen an Beachtung und wurde vor die Franziskanerkirche versetzt. Bei dieser Verlegung zerfiel der greise Stock. Arthur Bertola rekonstruierte ihn in Oberkirchner Sandstein und erneute das granitene Becken. 1924 war die Arbeit vollendet und der Brunnen konnte am neuen Standort aufgestellt werden.",
+    "Story_en" : "The Madonna fountain was created by Heinrich Krugel for a hospital in construction at the time. In 1923, after the hospital was closed, the fountain lost its onlookers and was relocated in front of the Franciscan church. Its aged column collapsed in the process, which Arthur Bertola reconstructed out of sandstone from Oberkirch and also renovated the granite basin. His work was complete in 1924 and the fountain could be mounted where it stands today. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1652",
+    "changedAt" : "6/4/2017, 12:22:46 PM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "60" : {
+    "Artist" : "Karl Mossdorf",
+    "Desc_de" : "Der Trog ist eine Handarbeit unter dem Rand mit einem einfachen geometrischen Ornament verziert. Das Mittelschild des Wandbrunnens ist mit Mosaiksteinen geschmückt, die ebenfalls geometrische Motive zeigen. Die Brunnenröhre ragt aus dem Mund einer Maske.",
+    "Desc_en" : "The basin showcases a handmade geometric ornamentation under the rim. The central shield on the wall is also decorated with mosaics of geometric motifs. A waterspout reaches out of the mouth of a lion's head.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.054408",
+      "longitude" : "8.306757"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494605242/Wandbrunnen_Mariahilf_Turnhalle_jwsz4x.jpg"
+    } ],
+    "LocationDesc_de" : "Schulhaus Mariahilf Turnhalle ",
+    "LocationDesc_en" : "Gym of the Mariahilf School",
+    "Name" : "Mariahilfbrunnen",
+    "Name_en" : "Mariahilf Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Wandbrunnen wurde 1913 zusammen mit der Mariahilfturnhalle errichtet. Entworfen hat ihn der Stadtbaumeister Karl Mossdorf, dessen Handschrift den Brunnen unverkennbar prägt.",
+    "Story_en" : "The wall fountain was erected in 1913 together with the Mariahilf gym. It was designed by the city architect at the time, Karl Mossdorf. Mossdorf's distinctive signature can be found on the basin. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1913",
+    "changedAt" : "31.5.2017, 21:18:11",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "208" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06201821",
+      "longitude" : "8.290091181"
+    },
+    "GisObjectId" : 273,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496939673/Halbmond2_Friedhofsbrunnen_ost_zytrpi.jpg"
+    } ],
+    "LocationDesc_de" : "Krematorium Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern crematory",
+    "Name" : "Krematoriumsbrunnen Ost IV",
+    "Name_en" : "Eastern Crematory Fountain IV",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:05:21",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "14" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "FountainTour_de" : "",
+    "FountainTour_en" : "",
+    "GeoLocation" : {
+      "latitude" : "47.040414",
+      "longitude" : "8.301152"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494518434/Alter_Gr%C3%BCtterbrunnen_s6fsjf.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Obergrundstrasse und Taubenhausstrasse 33 ",
+    "LocationDesc_en" : "Junction between Obergrundstrasse and Taubenhausstrasse 33",
+    "Name" : "Alter Grütterbrunnen",
+    "Name_en" : "Old Grütter Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "5/31/2017, 10:57:48 AM",
+    "changedBy" : "arno.galliker@wasserfuerwasser.ch"
+  },
+  "133" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03671366",
+      "longitude" : "8.307296242"
+    },
+    "GisObjectId" : 368,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933132/Delphinbrunnen_i2so9j.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933147/Delphinbrunnen4_mizhqm.jpg"
+    } ],
+    "LocationDesc_de" : "Schulhaus Hubelmatt",
+    "LocationDesc_de_2" : "Hubelmatt Schulhaus",
+    "LocationDesc_en" : "Hubelmatt School",
+    "Name" : "Delphinbrunnen",
+    "Name_en" : "Dolphin Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Zihlmattweg ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 16:45:54",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "47" : {
+    "Artist" : "Kunstgewerbeschule Luzern ",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.052771",
+      "longitude" : "8.306302"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595810/Schlosserbrunnen_3_tqu9jk.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595821/Schlosserbrunnen_1_yravvu.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Eisengasse 14 und 16 ",
+    "LocationDesc_en" : "Square between Eisengasse 14 and 16",
+    "Name" : "Schlosserbrunnen",
+    "Name_en" : "Locksmith Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Insgesamt zehn Künstler und Handwerker haben den Schlosserbrunnen an der Eisengasse unmittelbar nach der Jahrhundertwende geschaffen. Die Idee zu diesem Kunstwerk stammt vom damaligen Chefarzt des Kantonsspitals, Josef Kopp.  1915 wurde er an der Eisengasse aufgestellt. 1951 war der Stock aus Sandstein verwittert und musste ersetzt werden. 1962 wurde der Brunnen von Vandalen geschädigt und die Brunnenfigur wurde entwendet. Anstatt ihn zu reparieren, entschloss die Baudirektion den Brunnen zu entfernen, wobei einmal mehr die Verkehrsbehinderung als Argument diente. Als ein Jahr später spielende Kinder die Figur fanden, liess man den Schlosserbrunnen trotzdem noch jahrelang im städtischen Werkhof verrosten. Erst ein Journalist spürte den Brunnen auf, mobilisierte die Öffentlichkeit und erreichte, dass der Brunnen wieder an seinen alten Platz kam.",
+    "Story_en" : "A total of ten artists and craftsmen created the locksmith fountain immediately after the turn of the century. The basin was erected on the Eisengasse in 1915. In 1951 the column of weathered sandstone had to be replaced. Master stonemason Jacob Gamper, to whom this work had been entrusted, opted for the more durable St. Michael Hart limestone. In 1962, the fountain was damaged by vandals and its figure was stolen. Instead of repairing it, the City Construction Department decided to remove the fountain. A year later, some children came across the figure while playing. Nevertheless, the fountain was left to rust away for years in urban warehouses. It was not until a journalist showed interest in the fountain and mobilised the public that the fountain was restored to its old home once again.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1900",
+    "changedAt" : "6/4/2017, 10:38:01 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "122" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04639588",
+      "longitude" : "8.318689374"
+    },
+    "GisObjectId" : 376,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944307/Darcy_Brunnen_Alpenquai1_rkbzy1.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944310/Darcy_Brunnen_Alpenquai4_fl0u8o.jpg"
+    } ],
+    "LocationDesc_de" : "Park vis à vis Alpenquai 20",
+    "LocationDesc_de_2" : "Alpenquai Kiesplatz",
+    "LocationDesc_en" : "Park at Alpenquai 20",
+    "Name" : "Schöttibrunnen",
+    "Name_en" : "Schötti Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Alpenquai ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:52:05",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "230" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05076087",
+      "longitude" : "8.265093418"
+    },
+    "GisObjectId" : 329,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944729/Spielbrunnen_Mattstrasse3_zkmpcb.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944731/Spielbrunnen_Mattstrasse1_uy63bz.jpg"
+    } ],
+    "LocationDesc_de" : "Spielplatz vis à vis Mattstrasse 13",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Playground across from Mattstrasse 13",
+    "Name" : "Spielbrunnen Mattstrasse 13",
+    "Name_en" : "Playground Fountain at Mattstrasse 13",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Mattstrasse D01",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:58:59",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "111" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04642896",
+      "longitude" : "8.296196678"
+    },
+    "GisObjectId" : 361,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945377/Sa%CC%88lihaldebrunnen1_mdrhql.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945401/Sa%CC%88lihaldebrunnen2_nydxkq.jpg"
+    } ],
+    "LocationDesc_de" : "Spielplatz vis à vis Sälihalde 17",
+    "LocationDesc_de_2" : "Sälihalde Spielplatz",
+    "LocationDesc_en" : "Playground across Sälihalde 17",
+    "Name" : "Sälihaldebrunnen",
+    "Name_en" : "Sälihalde Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Sälihalde ",
+    "Typ" : "type_spielbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:10:19",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "31" : {
+    "Artist" : "Hermann Haller ",
+    "Desc_de" : "Über dem viereckigen Wandtrog grüsst die Skulptur der freizügigen Baigneuse die Passanten.",
+    "Desc_en" : "The sculpture greets passersby across a square trough. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.049905",
+      "longitude" : "8.307472"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592341/Brunnen_Seidenhofstrasse_qxokrw.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592340/Brunnen_Seidenhofstrasse_1_viiaid.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Seidenhofstrasse 12 und 14 ",
+    "LocationDesc_en" : "Square between Seidenhofstrasse 12 and 14.",
+    "Name" : "Baigneuse-Brunnen",
+    "Name_en" : "Baigneuse Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Seit 1926 ziert die \"Baigneuse\" die Seidenhofstrasse. Die freizügig gekleidete Dame aus Bronze, die der Zürcher Bildhauer Hermann Haller geschaffen hat, verletze offenbar das sittliche Empfinden prüder Gemüter. So wurde sie 1971 gar vom Sockel gestossen und kopfvoran aufs Trottoir geworfen. Der Glockengiesserei Rüetschi in Aarau gelang es, den dabei entstandenen Schaden wieder zu beheben. Der Sandsteintrog samt Säule wurde 1981 bei der Renovation des damaligen Nationalbankgebäudes von Emilio Stecher ersetzt. ",
+    "Story_en" : "The “Baigneuse” has adorned the Seidenhofstrasse since 1926. The liberally dressed lady in bronze, created by sculptor Hermann Haller, apparently violated the moral sense of prudish minds. In 1971 it was even pushed from its pedestal and thrown headfirst onto the sidewalk. Fortunately, the bell foundry Rüetschi in Aarau repaired the damage successfully. The basin and the column were replaced by Emilio Stecher in 1981 during the renovation of the then National Bank building.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1926",
+    "changedAt" : "8.6.2017, 22:17:26",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "162" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06103477",
+      "longitude" : "8.29891213"
+    },
+    "GisObjectId" : 299,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935387/Kugelbrunnen_Friedhof_ost_bzlp8v.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof Ost bei der neuen Gräberhalle",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern cemetery at the new tomb hall",
+    "Name" : "Gräberhallenbrunnen Ost",
+    "Name_en" : "Eastern Tomb Hall Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:00:05",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "191" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06087679",
+      "longitude" : "8.291121197"
+    },
+    "GisObjectId" : 280,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496934921/Kelchbrunnen_Friedhof_west_m6bfwa.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof West",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Western cemetery",
+    "Name" : "Friedhofbrunnen West",
+    "Name_en" : "Western Cemetery Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 10:59:02",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "151" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0562221",
+      "longitude" : "8.292119128"
+    },
+    "GisObjectId" : 388,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945810/Torbrunnen_St._Karli1_vhqagy.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496945831/Torbrunnen_St._Karli3_pggmhk.jpg"
+    } ],
+    "LocationDesc_de" : "Pausenplatz Schulhaus St. Karli, St. Karli-Strasse 44",
+    "LocationDesc_de_2" : "St. Karli Schulhaus",
+    "LocationDesc_en" : "Schoolyard St. Karli",
+    "Name" : "Wandbrunnen St. Karli",
+    "Name_en" : "Wall Fountain St. Karli",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "St. Karli-Strasse ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 20:17:44",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "95" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05240",
+      "longitude" : "8.30297"
+    },
+    "GisObjectId" : 483,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941877/Lo%CC%88wengrabenbecken2_auktie.jpg"
+    } ],
+    "LocationDesc_de" : "Löwengraben 25",
+    "LocationDesc_de_2" : "Rössligasse 12",
+    "LocationDesc_en" : "Löwengraben 25",
+    "Name" : "Löwengrabenbrunnen",
+    "Name_en" : "Löwengraben Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Rössligasse 12",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:12:20",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "190" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0639778",
+      "longitude" : "8.310680837"
+    },
+    "GisObjectId" : 307,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942005/Blumenbrunnen_Maihof2_ewyqic.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942009/Blumenbrunnen_Maihof1_udol8k.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Maihofstrasse 52 und 54",
+    "LocationDesc_de_2" : "Maihofstrasse Platz",
+    "LocationDesc_en" : "Maihofstrasse 52",
+    "Name" : "Maihofbrunnen",
+    "Name_en" : "Maihof Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Maihofstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:13:35",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "58" : {
+    "Artist" : "Karl Mossdorf",
+    "Desc_de" : "Ein kleiner Nischenbrunnen mit halbrunder Brunnenschale.",
+    "Desc_en" : "A small niche fountain with a semi-circular basin. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05369",
+      "longitude" : "8.305882"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494605287/Wandbrunnen_Mariahilf_eyhj3n.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Mariahilfgasse 4 und Grabenstrasse 6 ",
+    "LocationDesc_en" : "Square between Mariahilfgasse 4 and Grabenstrasse 6",
+    "Name" : "Mariahilfgassbrunnen",
+    "Name_en" : "Mariahilfgass Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Trotz seines unscheinbaren Äusseren stellt der Brunnen eine Besonderheit dar. Er markiert die Höhe, auf welche die alte Wasserversorgung das Wasser noch zu liefern vermochte. Bevor das Druckleitungsnetz gebaut wurde, reichte nämlich der Wasserdruck nur auf 450 Meter über Meer. Und der besagte Nischenbrunnen liegt genau 444.7 Meter über Meer. Was nun aber nicht heissen will, dass es damals problemlos gewesen ist, auch diese Grenzbereiche auszunützen. Vor allem im Winter hatten die Anwohner dieser erhöhten Lage oft mit Schwierigkeiten zu kämpfen. ",
+    "Story_en" : "Despite its modest exterior, there is something special about this fountain. It marks the maximum height to which water could be successfully pumped using the old water supply system. Before the pressure pipeline network was built, the water pressure only reached up to 450 metres above sea level, and this fountain stands exactly at 444.7 metres above sea level. Naturally, the water supply didn’t always run without a hitch and the residents of this elevated area sometimes had difficulties receiving water, especially during the winter months.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1913",
+    "changedAt" : "31.5.2017, 21:26:35",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "64" : {
+    "Artist" : "Karl Mossdorf ",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.055746",
+      "longitude" : "8.314859"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592558/HinterDerHofkirche_1_qdbstw.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Zinggentorstrasse 2 und Hofkirche ",
+    "LocationDesc_en" : "Square between Zinggentorstrasse 2 and Hofkirche",
+    "Name" : "Hofkirchbrunnen",
+    "Name_en" : "Hofkirche Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der kleine Nischenbrunnen beim hinteren Ausgang der Gräberhallen der Hofkirche zur Zinggentorstrasse hin ist ein Werk von Karl Mossdorf. Den Trog meisselte Traugott Niederberger in Granit, während Bildhauer Hugo Siegwart den Wasserspeier formte. Es handelt sich bei diesem Löwenkopf um eine Nachbildung der Röhrenplastik jenes Brunnens, der im Hof des alten Bürgerspitals an der Obergrundstrasse steht. Aufgestellt wurde der Brunnen 1924.",
+    "Story_en" : "The small niche fountain at the rear exit of the Hofkirche's cemetery to Zinggentorstrasse is yet another work of Karl Mossdorf's. Traugott Niederberger chiselled the basin in granite, while sculptor Hugo Siegwart shaped the gargoyle. The lion's head is a replica of the fountain that stands in the courtyard of the old public hospital on Obergrundstrasse. The fountain was erected in 1924.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1924",
+    "changedAt" : "7.6.2017, 14:05:05",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "214" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06454917",
+      "longitude" : "8.322086202"
+    },
+    "GisObjectId" : 313,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935279/Sprudelbrunnen_Gartenheim1_nsncwk.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935297/Sprudelbrunnen_Gartenheim3_d9aprm.jpg"
+    } ],
+    "LocationDesc_de" : "Spielplatz vis à vis Gartenheimstrasse 42",
+    "LocationDesc_de_2" : "Gartenheimstrasse Spielplatz",
+    "LocationDesc_en" : "Playground across Gartenheimstrasse 42",
+    "Name" : "Gartenheimbrunnen",
+    "Name_en" : "Gartenheim Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Gartenheimstrasse ",
+    "Typ" : "type_sprudelbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:21:52",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "53" : {
+    "Artist" : "Jean Cattaneo",
+    "Desc_de" : "Kleiner, runder Trog mit zentralem Sprudel.",
+    "Desc_en" : "Small round trough with a central waterspout.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.054545",
+      "longitude" : "8.312294"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494600759/SchweizerofquaiKiosk_2_yo5jmq.jpg"
+    } ],
+    "LocationDesc_de" : "Vis à vis Schweizerhofquai 6 ",
+    "LocationDesc_en" : "Across from Schweizerhofquai 6",
+    "Name" : "Schweizerofquaibrunnen",
+    "Name_en" : "Fountain at Schweizerhofquai ",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "1946 ersetze der Trinksprudelbrunnen einen kleinen, gusseisernen Brunnen. Den Trinkelsprudelbrunnen hatte Jean Cattaneo bereits 1939 angefertigt. ",
+    "Story_en" : "In 1946 the spring fountain replaced a small, cast-iron fountain. The fountain was made by Jean Cattaneo in 1939.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1939",
+    "changedAt" : "6/4/2017, 10:41:17 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "203" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0620752",
+      "longitude" : "8.290426589"
+    },
+    "GisObjectId" : 275,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496937590/Kleiner_Friedhofsbrunnen_rjojif.jpg"
+    } ],
+    "LocationDesc_de" : "Krematorium Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern crematory",
+    "Name" : "Krematoriumsbrunnen Ost II",
+    "Name_en" : "Eastern Crematory Fountain II",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:01:43",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "42" : {
+    "Artist" : "Konrad Lux, Hans Georg Urban, Ludwig Leichmann, Josef Vetter, Otto Münch, Leopold Häfliger, Emilio Stecher ",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "FountainTour_de" : "Dieser Brunnen ist Teil einer offiziellen Brunnen-\n und Wasserführung. Informiere Dich bei luzern.com/de/brunnentratsch oder nachtwächterralf.ch.",
+    "FountainTour_en" : "This fountain is part of a official fountain and water tour. For further information check http://www.luzern.com/en/brunnentratsch or nightwatchman.ch.",
+    "GeoLocation" : {
+      "latitude" : "47.051976",
+      "longitude" : "8.3046468"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606310/Weinmarktbrunnen_xexah0.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606303/Weinmarktbrunnen1_r6jr5l.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494867621/Weinmarktbrunnen_dzf8pq.jpg"
+    } ],
+    "LocationDesc_de" : "Weinmarkt ",
+    "LocationDesc_en" : "Weinmarkt",
+    "Name" : "Weinmarktbrunnen",
+    "Name_en" : "Wine Market Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "\nDer Weinmarktbrunnen zählt zu den bemerkenswertesten Brunnen der Schweiz. In seiner annähernd heutigen Form wurde er 1481 bei Steinmetz Konrad Lux aus Basel in Auftrag gegeben. Bereits im 16.Jh. liess der Rat das sechseckige Becken durch ein achteckiges Becken ersetzt. 1737 erhielt der Stock ein anderes Aussehen. Stadtwerkmeister Hans Georg Urban krönte die Säule anstelle des verwitterten Helmes und der Kreuzblumen mit Obelisken im Régencestil. Gleichzeitig erhielt der Brunnen einen neuen Trog aus Geissberger-Steinen. Hierzu wurden Findlinge aus der Gegend von Meggen verwendet. Zu Beginn des 20. Jh. waren die empfindlichen Teile des Brunnens stark verwittert. 1902 beschloss daher der Stadtrat, den Brunnenstock zu kopieren und das Original in den Hof des Ritterschen Palastes zu verlegen. Gipsformator Ludwig Leichmann aus München fertigte einen Abguss an und 1903 meisselte Josef Vetter nach diesem Vorbild eine Kopie in Walchwiler Sandstein. Doch bereits 1952 wurde ein Ersatz für die Säule unumgänglich. Der Stadtrat betraute den Zürcher Bildhauer Otto Münch mit Modellstudien. Nach dessen Vorlagen formte Bildhauer Leopold Häfliger einen neuen Stock, für dessen Kernstück er Muschelkalk verwendete. Der untere Teil der Säule entspricht dem Original, die Bekrönung mit der Figur des Stadtpatrons St. Mauritius ist hingegen der durch die Diebold-Schilling-Chronik überlieferten Urform frei nachgebildet. 1957 war das Werk vollendet. Emilio Stecher erneuerte dabei den Brunnentrog, der ebenfalls stark verwittert war. Der Trog aus bayrischem Muschelkalk wurde mit einem neuen Stufenunterbau aus Calanca-Granit ergänzt. ",
+    "Story_en" : "The Wine Market Fountain is one of the most remarkable fountains in Switzerland. Sculptor Konrad Lux from Basel was commissioned to build it in 1481. Already in the 16th century, the city council had the hexagonal basin replaced by an octagonal pool. In 1737/38 the column was given a different look. City foreman Hans Georg Urban crowned the column with obelisks in the Regency style instead of the weathered helmet and finials. At the same time the fountain was given a new basin of Geissberger stone. In the early 20th century the more fragile parts of the fountain were heavily weather-beaten. Therefore, in 1902 the city council decided to copy the fountain’s basin and move the original into the courtyard of the Knight's palace. Ludwig Leichmann from Munich casted a model in plaster and in 1903 the sculptor Josef Vetter made a copy in Walchwil-sandstone according to this model. A replacement for the column was inevitable in 1952. The city council entrusted the model templates to Zurich sculptor Otto Münch. With these templates, the sculptor Leopold Häfliger then formed a new column and used limestone for the centrepiece. The lower part of the column corresponds to the original, while the crowning figure of the patron saint St. Mauritius was freely reproduced. The column was completed in 1957 and the water basin dating back to 1738 was also renewed at the time by Emilio Stecher.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1481",
+    "changedAt" : "8.6.2017, 20:55:06",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "75" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04963455",
+      "longitude" : "8.303813571"
+    },
+    "GisObjectId" : 415,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496948425/Brunnen_hinter_Fr.kirche_ajp1hl.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496948438/Brunnen_hinter_Fr.kirche2_oiebjw.jpg"
+    } ],
+    "LocationDesc_de" : "Hirschengraben 16",
+    "LocationDesc_de_2" : "Franziskanerkirche",
+    "LocationDesc_en" : "Hirschengraben 16",
+    "Name" : "Kleiner Franziskanerbrunnen",
+    "Name_en" : "Little St. Francis Square Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Franziskanerplatz 1A",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 21:00:57",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "115" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0524102",
+      "longitude" : "8.297380285"
+    },
+    "GisObjectId" : 395,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496936197/Innenhofbrunnen_Baselstrasse_nnofuz.jpg"
+    } ],
+    "LocationDesc_de" : "Innenhof Baselstrasse 20",
+    "LocationDesc_de_2" : "Baselstrasse 20 Innenhof",
+    "LocationDesc_en" : "Inner court Baselstrasse 20",
+    "Name" : "Innenhofbrunnen Baselstrasse",
+    "Name_en" : "Inner Court Fountain Baselstrasse",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Baselstrasse ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:36:40",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "156" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06148186",
+      "longitude" : "8.305446721"
+    },
+    "GisObjectId" : 303,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496934112/Bluberfisch_Rosenbergstrasse3_eqxw9s.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496934127/Bluberfisch_Rosenbergstrasse4_wpst6g.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Rosenbergstrasse 2 und 4",
+    "LocationDesc_de_2" : "Rosenbergstrasse Platz",
+    "LocationDesc_en" : "Between Rosenbergstrasse 2 and 4",
+    "Name" : "Fischspringbrunnen Rosenbergstrasse",
+    "Name_en" : "Fish Spring Fountain Rosenbergstrasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Rosenbergstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:02:18",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "109" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05395887",
+      "longitude" : "8.30719605"
+    },
+    "GisObjectId" : 495,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935938/Steinbrunnen_Hertensteinstrasse2_qyuo0g.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Hertensteinstrasse 50 und 58",
+    "LocationDesc_de_2" : "Hertensteinstrasse Platz",
+    "LocationDesc_en" : "Between Hertensteinstrasse 50 and 58",
+    "Name" : "Hertensteinbrunnen",
+    "Name_en" : "Hertenstein Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Hertensteinstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:11:24",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "189" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06416139",
+      "longitude" : "8.305977886"
+    },
+    "GisObjectId" : 305,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941578/Libellenbad3_byqxs8.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941575/Libellenbad1_nrtpqj.jpg"
+    } ],
+    "LocationDesc_de" : "Spielplatz zwischen Libellenrain 17 und Mozartstrasse 47",
+    "LocationDesc_de_2" : "Libellenrain Spielplatz",
+    "LocationDesc_en" : "Libellenrain 17",
+    "Name" : "Libellenbrunnen",
+    "Name_en" : "Dragonfly Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Libellenrain ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:07:54",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "0" : {
+    "Artist" : "",
+    "Desc_de" : "Stock und Doppeltrog sind aus Kalksteinquadern gemauert und mit Granitplatten abgedeckt.",
+    "Desc_en" : "The column and twin basins are made of limestone blocks and covered with granite plates.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.068041",
+      "longitude" : "8.311731"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943243/Franziska_Brunnen_Rotsee3_hx0jdt.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943242/Franziska_Brunnen_Rotsee1_uwdijc.jpg"
+    } ],
+    "LocationDesc_de" : "Wiese vor Rotseestrasse 18",
+    "LocationDesc_en" : "Meadow in front of Rotseestrasse 18",
+    "Name" : "Rotseebrunnen",
+    "Name_en" : "Fountain at the Rotsee",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Brunnen wurde 1943 von der Gesellschaft Pro Rotsee beim sogenannten Bootslagerplatz auf der Rotseematte aufgestellt. ",
+    "Story_en" : "The fountain was placed at the Rotseematte, close to the so-called \"Boat Storage Square\", by the Pro-Rotsee Society in 1943. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1943",
+    "changedAt" : "8.6.2017, 19:34:11",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "20" : {
+    "Artist" : "Werner Burri",
+    "Desc_de" : "Der Brunnen besteht aus zwei würfelartigen Gebilden aus farbigem Beton und einer Bierfässer-Installation.",
+    "Desc_en" : "The fountain is comprised of two cube-like shapes of colourful concrete for the basin and, interestingly enough, a beer keg installation. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.049688",
+      "longitude" : "8.301208"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595342/Rothausbrunnen1_fnzeva.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595363/Rothausbrunnen_pke3iv.jpg"
+    } ],
+    "LocationDesc_de" : "Hotel Rothaus ",
+    "LocationDesc_en" : "Hotel Rothaus",
+    "Name" : "Rothausbrunnen",
+    "Name_en" : "Fountain at the Hotel Rothaus",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Story_de" : "Der Rothausbrunnen wurde von Architekt Werner Burri entworfen. 1965 diente er als Ersatz für einen grösseren Wasserspender aus dem Jahre 1865, der infolge des Hotelneubaus weichen musste. 2004  ersetzte eine Bierfässer-Installation den Betonbrunnen.\n ",
+    "Story_en" : "The angular structure of colourful concrete was designed by architect Werner Burri. It was installed in 1965 as a replacement for a larger water dispenser from 1865, which had to give way as a result of the new hotel building. The concrete well was replaced by a beer keg installation in 2004. ",
+    "Typ" : "Zierbrunnen",
+    "Year" : "1965",
+    "changedAt" : "7.6.2017, 17:22:49",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "70" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04713414",
+      "longitude" : "8.303455764"
+    },
+    "GisObjectId" : 435,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942324/Mu%CC%88hlebachbrunnen1_qdyppy.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942327/Mu%CC%88hlebachbrunnen4_mpdldk.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Mühlebachweg 8 und 10",
+    "LocationDesc_de_2" : "Mühlebachweg Platz",
+    "LocationDesc_en" : "Court between Mühlebachweg 8 and 10",
+    "Name" : "Mühlenbachbrunnen",
+    "Name_en" : "Mühlenbach Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Mühlebachweg ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:18:55",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "2" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0570923",
+      "longitude" : "8.3220678"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494591523/Brunnen_Adligenswilerstrasse_Platz_1_yuljpr.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494591524/Brunnen_Adligenswilerstrasse_Platz_cdoxf6.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Adligenswilerstrasse 37 und Lindenfeldstrasse ",
+    "LocationDesc_en" : "Square between Adligenswilerstrasse 37 and Lindenfeldstrasse",
+    "Name" : "Brunnen Adligenswilerstrasse Platz",
+    "Name_en" : "Fountain at Adligenswilerstrasse Square",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Brunnen muss einen Vorgänger gehabt haben, denn als Josef Gilli die Parzelle 1863 von Karl Faller kaufte und überbaute, erwarb er mit dem Land das Recht zum Bezug von einem Zoll Wasser ab dem privaten Hofgassbrunnen, welcher in der Dorenbachmatte noch heute entspringt. ",
+    "Story_en" : "The basin is marked with the year 1893. However, it must have had a predecessor, because when Josef Gilli bought the plot in 1863 from Karl Faller, the property included water rights from the spring at the Hofgass, which is still flowing today.",
+    "Typ" : "type_sprudelbrunnen",
+    "Year" : "1893",
+    "changedAt" : "9.6.2017, 11:20:05",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "86" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0438968",
+      "longitude" : "8.306884983"
+    },
+    "GisObjectId" : 379,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935528/Gussbrunnen_Bleicherstrasse2_qrp8g9.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935542/Gussbrunnen_Bleicherstrasse4_o6peyw.jpg"
+    } ],
+    "LocationDesc_de" : "Parkanlage vis à vis Bleicherstrasse 17",
+    "LocationDesc_de_2" : "Bleicherstrasse Park",
+    "LocationDesc_en" : "Park across from Bleicherstrasse 17",
+    "Name" : "Gussbrunnen",
+    "Name_en" : "Cast Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Bleicherstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:25:52",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "38" : {
+    "Artist" : "Otto Dreyer, Jean Cattaneo ",
+    "Desc_de" : "Aus der Mitte der flachen Schale fliesst ein viergliedriger Quell. Zwei zusätzliche Röhren versorgen den Wasserspender vom Schalenrand her mit Wasser.",
+    "Desc_en" : "In the middle of the flat basin is a waterspout sending water in four directions.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.049437",
+      "longitude" : "8.31423"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494582246/Brunnen_Inselipark_cbnmtu.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494582518/Brunnen_Inselipark_1_z1xztk.jpg"
+    } ],
+    "LocationDesc_de" : "Inselipark ",
+    "LocationDesc_en" : "Inselipark",
+    "Name" : "Inseliparkbrunnen",
+    "Name_en" : "Inselipark Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Aus dem Jahr 1929 stammt der Sprudelbrunnen auf dem Inseli, der von Architekt Otto Dreyer entworfen und von Steinhauer Jean Cattaneo in Muschelkalkimitation angefertigt wurde. \n",
+    "Story_en" : "This little bubbling fountain dates back to 1929 and is especially appreciated by the drivers of tourist buses. It was designed by architect Otto Dreyer and built by stonemason Jean Cattaneo. ",
+    "Typ" : "type_sprudelbrunnen",
+    "Year" : "1929",
+    "changedAt" : "6.6.2017, 17:26:31",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "198" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06155825",
+      "longitude" : "8.289734879"
+    },
+    "GisObjectId" : 270,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496941029/Zapfstation1_Friedhof_su%CC%88d_cnatxp.jpg"
+    } ],
+    "LocationDesc_de" : "Krematorium Süd (bei den Gerätelokalen)",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Southern crematory",
+    "Name" : "Krematoriumsbrunnen Süd",
+    "Name_en" : "Southern Crematory Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Friedental ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 18:57:17",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "160" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06057574",
+      "longitude" : "8.297537114"
+    },
+    "GisObjectId" : 296,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496948498/Topfbrunnen2_Friedhof_ost1_lzbdi5.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern Cemetery",
+    "Name" : "Friedhofbrunnen Ost II",
+    "Name_en" : "Eastern Cemetery Fountain II",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 10:58:32",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "118" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03953961",
+      "longitude" : "8.305116693"
+    },
+    "GisObjectId" : 373,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943726/Schulhaus_Moosmatt2_ma3his.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943728/Schulhaus_Moosmatt_xpw6rq.jpg"
+    } ],
+    "LocationDesc_de" : "Pausenplatz Schulhaus Moosmatt, Voltastrasse 35",
+    "LocationDesc_de_2" : "Moosmatt Schulhaus",
+    "LocationDesc_en" : "Schoolyard Moosmatt at Voltastrasse 35",
+    "Name" : "Schulhausbrunnen Moosmatt",
+    "Name_en" : "School Fountain Moosmatt",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Voltastrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:42:38",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "171" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06084989",
+      "longitude" : "8.296944774"
+    },
+    "GisObjectId" : 300,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935040/Strohhutbrunnen_Friedhof_ost_Hallenende_fd8ukj.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof Ost am Ende der Halle",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern cemetery at the end of the hall",
+    "Name" : "Friedhofbrunnen am Ende der Halle",
+    "Name_en" : "Cemetery Fountain at the End of the Hall",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 10:59:23",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "125" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05662037",
+      "longitude" : "8.309861786"
+    },
+    "GisObjectId" : 498,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496934177/Taucherbrunnen_Suva_Fluhmatt1_cdhcba.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496934194/Taucherbrunnen_Suva_Fluhmatt3_yvpeif.jpg"
+    } ],
+    "LocationDesc_de" : "Fluhmattstrasse 1",
+    "LocationDesc_de_2" : "SUVA Känzeli",
+    "LocationDesc_en" : "Fluhmattstrasse 1",
+    "Name" : "Fluhmattbrunnen",
+    "Name_en" : "Fluhmatt Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Fluhmattstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:03:21",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "18" : {
+    "Artist" : "",
+    "Desc_de" : "Heute hat der Brunnen die Form eines einfachen, neben dem Hofeingang zur Liegenschaft situierten Wandtroges.",
+    "Desc_en" : "Today the fountain is a simple trough near the house entrance. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05116",
+      "longitude" : "8.300611"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494591843/Brunnen_Kasernenplatz_bqdar0.jpg"
+    } ],
+    "LocationDesc_de" : "Torbogen zwischen Kasernenplatz 1 und 2 ",
+    "LocationDesc_en" : "Arcade between Kasernenplatz 1 and 2",
+    "Name" : "Kasernenplatzbrunnen",
+    "Name_en" : "Kasernenplatz Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Brunnen, der dort sprudelt muss über 300 Jahre alt sein, denn es ist belegt, dass am 21. Juni 1687 das Wasserbezugsrecht vergünstigt wurde. ",
+    "Story_en" : "This fountain must be more than 300 years old, as records show that the rights to retrieve water were given June 21st 1687.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "6.6.2017, 17:29:38",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "194" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06464938",
+      "longitude" : "8.305300295"
+    },
+    "GisObjectId" : 306,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496936044/Holzbrunnen_Rotseeweg2_izeul6.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496936060/Holzbrunnen_Rotseeweg3_u7pdo0.jpg"
+    } ],
+    "LocationDesc_de" : "Platz am Rotseeweg, vor Libellenrain 17",
+    "LocationDesc_de_2" : "Rootsee Platz",
+    "LocationDesc_en" : "Court at Rotseeweg",
+    "Name" : "Holzbrunnen",
+    "Name_en" : "Wood Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Libellenrain ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:34:32",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "30" : {
+    "Artist" : "Ruedi Weber, Daniel Pernoux",
+    "Desc_de" : "Der traditionelle Brunnen hat ein halbrundes Wandbecken mit einem Bronzerelief, das einen streunenden Fuchs darstellt.",
+    "Desc_en" : "This traditional wall fountain has a half-round basin with a bronze relief depicting a stray fox. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.050029",
+      "longitude" : "8.306778"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592399/Brunnen_Theaterstrasse_Fuchsbrunnen_q2w1qm.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494592399/Brunnen_Theaterstrasse_Fuchstrasse_tliduf.jpg"
+    } ],
+    "LocationDesc_de" : "Passage vor Theaterstrassse 7 ",
+    "LocationDesc_en" : "Passage in front of Theaterstrasse 7",
+    "Name" : "Fuchsbrunnen",
+    "Name_en" : "Fox Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "An der Theaterstrasse floss 1871 zum ersten Mal öffentlich zugängliches Wasser, als der seit 1841 beim Stadttheater sprudelnde Brunnen dorthin versetzt wurde. 1903 wurde der Brunnen ersetzt und an die Theaterstrasse 9, der Liegenschaft des ehemaligen Hotels Concordia, versetzt. Als 1972 der heutige Neubau entstand, erhielt der Brunnen den nunmehrigen Platz am Arkadenpfeiler. Bei dieser Versetzung verhalf Bildhauer Ruedi Weber dem Wasserspender zu einem gefälligeren Aussehen. 1986 erhielt der Brunnen gar eine besondere Zier in Form eines Bronzereliefs, das einen streunenden Fuchs darstellt. Daniel Pernoux schuf diesen Fuchs im Auftrag von Anna Kirchhofer-Fuchs, die damit ihrem Vater, dem bekannten Restaurateur und Hotelier Adolf Fuchs, ein Denkmal setzen wollte. Dabei verfiel sie einem Irrtum, denn sie war der Meinung, der von ihrem Vater so geschätzten Brunnen sei ihr Eigentum. Es handelt sich allerdings um einen öffentlichen Brunnen.",
+    "Story_en" : "A water dispenser was erected in 1871 on the Theaterstrasse. This became obsolete in 1903 and was replaced by today’s fountain in the following year, but was then relocated to the property of the former hotel Konkordia at Theaterstrasse 9. It was closed in 1933 due to leaching, but residents fought to get the water running again until they succeeded in 1936. In 1972 the fountain was once again moved, now to its current position by the arcade pillars, and the sculptor Ruedi Weber worked to give the fountain a more pleasing appearance. In 1986 it was decorated with a bronze relief depicting a stray fox. Daniel Pernoux created this fox on behalf of Anna Kirchhofer-Fuchs, who wished to erect a monument in honour of her father, the well-known restaurateur and hotelier Adolf Fuchs. At the same time she was under the misapprehension that the fountain, that reminded her so fondly of her father, was her property. It was and remains, however, a public one.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1871",
+    "changedAt" : "19.6.2017, 14:37:57",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "143" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03611502",
+      "longitude" : "8.302481632"
+    },
+    "GisObjectId" : 357,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942067/Milita%CC%88rgartenbrunnen2_hd5ucp.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942130/Milita%CC%88rgartenbrunnen3_yrgpoe.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vis à vis Horwerstrasse 81",
+    "LocationDesc_de_2" : "Horwerstrasse Platz",
+    "LocationDesc_en" : "Court across Horwerstrasse 81",
+    "Name" : "Militärgartenbrunnen",
+    "Name_en" : "Military Garden Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Horwerstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:15:37",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "130" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05350908",
+      "longitude" : "8.294287203"
+    },
+    "GisObjectId" : 391,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943287/Ruckstuhlbrunnen_Baselstrasse2_mjnnmy.jpg"
+    } ],
+    "LocationDesc_de" : "Baselstrasse 56",
+    "LocationDesc_de_2" : "Baselstrasse 56",
+    "LocationDesc_en" : "Baselstrasse 56",
+    "Name" : "Ruckstuhlbrunnen",
+    "Name_en" : "Ruckstuhl Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Baselstrasse 56",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "17.8.2017, 10:15:06",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "114" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0518162",
+      "longitude" : "8.297073193"
+    },
+    "GisObjectId" : 396,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944602/Sentibrunnen1_cwlnz1.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944619/Sentibrunnen2_m3n4s5.jpg"
+    } ],
+    "LocationDesc_de" : "Baselstrasse 21",
+    "LocationDesc_de_2" : "Baselstrasse Platz",
+    "LocationDesc_en" : "Baselstrasse 21",
+    "Name" : "Sentibrunnen",
+    "Name_en" : "Senti Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Baselstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:57:09",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "129" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05364639",
+      "longitude" : "8.294558378"
+    },
+    "GisObjectId" : 392,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496932816/La%CC%88delibrunnen1_ngw2cp.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1497000495/La%CC%88delibrunnen3_n9kyrd.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Baselstrasse 50 und Lädelistrasse 8",
+    "LocationDesc_de_2" : "Lädeliplatz",
+    "LocationDesc_en" : "Square between Baselstrasse 50 and Lädelistrasse 8",
+    "Name" : "Baselstrassebrunnen",
+    "Name_en" : "Baselstrasse Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Baselstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : 2011,
+    "changedAt" : "9.6.2017, 11:28:20",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "29" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.049992",
+      "longitude" : "8.306011"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494518670/Brunnen_Buobenmatt_ka4etu.jpg"
+    } ],
+    "LocationDesc_de" : "Innenhof Buobenmatt 1 ",
+    "LocationDesc_en" : " Inner courtyard at Buobenmatt 1",
+    "Name" : "Buobenmattbrunnen",
+    "Name_en" : "Buobenmatt Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Einer der jüngsten Brunnen der Stadt befindet sich im Hofraum der Buobenmatt-Liegenschaft. An der Hausfassade zieht ein monumentales Gemälde des Kunstmalers Arno Kauflin den Blick auf sich. Über den beiden Brunnenröhren wurden jene Atlanten aufgestellt, welche beim 1981 abgebrochenen Haus Hirschengraben 5 einen Erker zu stützen hatten.",
+    "Story_en" : "One of the youngest fountains of the city is located in the Buobenmatt courtyard. On the house façade behind the fountain the painter Arno Kauflin depicted a monumental painting. In 1981 a house at Hirschengraben 5 was demolished and two atlases from it were added to this fountain.",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "1984",
+    "changedAt" : "6.6.2017, 16:28:59",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "41" : {
+    "Artist" : "Genuin Schnüeper, Anton Schlegel, Johann Franz Gloggner, Josef Vetter, Leopold Häfliger  ",
+    "Desc_de" : "Auf dem vier Meter hohen Stock befindet sich eine etwa 40 Zentimeter hohe Neptunfigur. Der bemerkenswerte Stock ist aus vier Geschossen aufgebaut, die beiden mittleren sind auf allen Seiten mit stark gedrängten Rokoko-Ornamenten übersponnen und das oberste Geschoss ist zu einem pagodenförmigen, überreich aus vielerlei Elementen zusammengesetzten Häuschen ausgebildet.",
+    "Desc_en" : "A 40 centimetre tall figure of Neptune crowns the top of the column some four meters above the ground. The remarkable column is made up of four parts, the middle two are heavily decorated on all sides with Rococo ornaments and the top part consists of a pagoda-shaped cottage composed of many elements.",
+    "Enabled" : true,
+    "FountainTour_de" : "Dieser Brunnen ist Teil einer offiziellen Brunnen-\n und Wasserführung. Informiere Dich bei luzern.com/de/brunnentratsch oder nachtwächterralf.ch.",
+    "FountainTour_en" : "This fountain is part of a official fountain and water tour. For further information check http://www.luzern.com/de/brunnentratsch or nightwatchman.ch.",
+    "GeoLocation" : {
+      "latitude" : "47.0518068",
+      "longitude" : "8.303003"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494595069/Neptunbrunnen_audfpa.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494867576/Neptunbrunnen_b2c5xm.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494867575/Neptunbrunnen1_rshhmx.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Mühlenplatz 6 und Reuss",
+    "LocationDesc_en" : "Square between Mühleplatz 6 and the Reuss river",
+    "Name" : "Neptunbrunnen",
+    "Name_en" : "Neptune Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Neptunbrunnen wurde 1718 von Genuin Schnüeper für den Hirschenplatz geschaffen und ist ein reizendes Beispiel für die im Rokoko blühende Chinoiserie-Kunst. 1772 erhielt der Brunnen ein grösseres, rund 10'000l fassendes Becken, das aus einem einzigen Stein herausgearbeitet worden war. Das enorme Fassungsvermögen dieses und anderer Brunnen erinnert daran, dass die Brunnen lange Zeit auch als Löschwasserlieferanten zu dienen hatten. 1891 wurde der Neptunbrunnen unter dem damals schon aktuellen Vorwand der Verkehrsbehinderung vom Hirschplatz verbannt und an den Mühleplatz verlegt, wo er einen seit 1837 existierenden Brunnen ablöste. 1912 schuf Bildhauer Josef Vetter eine getreue Kopie des Rokoko-Kunstwerks aus Sandstein. Im Jahr darauf goss er eine neue Neptunfigur. 1963/65 meisselte Bildhauer Leopold Häfliger einen neuen originalgetreuen Trog aus Schmerikoner Sandstein. ",
+    "Story_en" : "The Neptune fountain was created for the Hirschenplatz in 1718 by Genuin Schnüeper. In 1891 the fountain was moved from Hirschenplatz to its current location, where it replaced a small water dispenser dating back to 1837.  In 1912 the sculptor Josef Vetter created a faithful copy of the Rococo work of art made of sandstone. The following year, he created a new figure of Neptune. In 1963/65 the sculptor Leopold Häfliger made a new basin true to the original from Schmerikon sandstone. ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1718",
+    "changedAt" : "12.6.2017, 12:49:55",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "63" : {
+    "Artist" : "Jakob Gamper ",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0559791",
+      "longitude" : "8.3127958"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606438/Weybrunnen_1_e4g7am.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606451/Weybrunnen_3_cbntvm.jpg"
+    } ],
+    "LocationDesc_de" : "Platz zwischen Weystrasse 13 und Stadthofstrasse 14 ",
+    "LocationDesc_en" : "Courtyard between Weystrasse 13 and Stadthofstrasse 14",
+    "Name" : "Weybrunnen",
+    "Name_en" : "Wey Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "Der Weybrunnen setzt sich aus verschiedenen heterogenen Teilstücken zusammen. Der auf vier Kugeln ruhende, mit Bandelwerk ornamentierte Obelisk, der den heutigen Weybrunnen bekrönt, stammt ursprünglich vom 1743/1744 errichteten Vorbau des 1862 abgetragenen Basler Tors am heutigen Kasernenplatz. 1961 hat Steinmetzmeister Jakob Gamper das Original genau kopiert, da es im Laufe der Jahrzehnte derart verwittert war, dass eine Renovation nicht mehr in Frage kam.",
+    "Story_en" : "The fountain, crowned with an ornamented obelisk resting on four balls, originally belonging to a gateway in the city of Basel dating back to 1743/44, once stood at today's Kasernenplatz and was later removed in 1862. Master stonemason Jacob Gamper made an exact copy in 1961 because the original was so weathered over the decades that a renovation was out of the question.",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1673",
+    "changedAt" : "6/4/2017, 11:47:31 AM",
+    "changedBy" : "samuel.imbach@wasserfuerwasser.ch"
+  },
+  "150" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05941578",
+      "longitude" : "8.312711575"
+    },
+    "GisObjectId" : 311,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496936249/Kapuzinerbrunnen2_nevz37.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Kapuzinerweg 12",
+    "LocationDesc_de_2" : "Kapuzinerweg Platz",
+    "LocationDesc_en" : "Kapuzinerweg 12",
+    "Name" : "Kapuzinerbrunnen",
+    "Name_en" : "Kapuziner Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Kapuzinerweg ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:37:35",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "3" : {
+    "Artist" : "",
+    "Desc_de" : "Der Brunnen steht repräsentativ für den 30er-Jahre-Stil.",
+    "Desc_en" : "This fountain is a typical example of the style in the 1930s. ",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.0546362",
+      "longitude" : "8.3317594"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494581737/Brunnen_Trotteliquai_2_s5ens5.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494581767/Brunnen_Trotteliquai_ylwpn5.jpg"
+    } ],
+    "LocationDesc_de" : "Trottliquai, vis à vis Leumattstrasse 1 ",
+    "LocationDesc_en" : "Trotteliquai, across Leumattstrasse 1",
+    "Name" : "Trotteliquaibrunnen",
+    "Name_en" : "Trotteliquai Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "1936",
+    "changedAt" : "6/13/2017, 2:45:24 PM",
+    "changedBy" : "arno.galliker@wasserfuerwasser.ch"
+  },
+  "74" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04503",
+      "longitude" : "8.30476"
+    },
+    "GisObjectId" : 413,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942412/Seitenbrunnen_Obergrundstrasse2_ce2atm.jpg"
+    } ],
+    "LocationDesc_de" : "Obergrundstrasse 61",
+    "LocationDesc_de_2" : "Hirschengraben 19",
+    "LocationDesc_en" : "Obergrundstrasse 61",
+    "Name" : "Parkbrunnen Obergrundstrasse",
+    "Name_en" : "Park Fountain Obergrundstrasse",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Hirschengraben 19",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:20:17",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "226" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05450906",
+      "longitude" : "8.341306828"
+    },
+    "GisObjectId" : 318,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943339/Marterpfahlbrunnen_Bru%CC%88lmatte2_zezowe.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943355/Marterpfahlbrunnen_Bru%CC%88lmatte4_lyeqgs.jpg"
+    } ],
+    "LocationDesc_de" : "Brülmatte, vis à vis Kreuzbuchstrasse 44",
+    "LocationDesc_de_2" : "Brülmatte",
+    "LocationDesc_en" : "Brülmatte, across Kreuzbuchstrasse 44",
+    "Name" : "Runenbrunnen",
+    "Name_en" : "Runes Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Kreuzbuchstrasse ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:36:03",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "52" : {
+    "Artist" : "Bruno Schmitz, Urban Dindo, Traugott Niederberger",
+    "Desc_de" : "Wuchtiger kreisrunder Trog auf einem Sockel mit Treppenstufen und die Düse im Zentrum. Der mit bronzenen Jugendstil-Löwenköpfen verzierte Wasserbehälter aus massivem Granit wiegt 13 Tonnen. ",
+    "Desc_en" : "Massive circular basin on a pedestal with steps and a nozzle at the centre. It is made of solid granite and is ornamented with bronze lion heads. The fountain weighs a hefty 13 tonnes.",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.054471",
+      "longitude" : "8.312713"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1494606364/WestspringbrunnenPlatzVorMusikpavillon_1_fmk8my.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Musikpavillon ",
+    "LocationDesc_en" : "Courtyard in front of the Music Pavillon",
+    "Name" : "Westspringbrunnen Platz Nationalquai Musikpavillon",
+    "Name_en" : "Western Spring Fountain at Nationalquai",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Story_de" : "West- und Ostspringbrunnen sind Zwillingsbrunnen und dürfen in dieser Art als Besonderheit betrachtet werden. In Luzern steht das Paar sogar einzigartig da. Sie sind integrale Bestandteile der vom Berliner Professor Bruno Schmitz Anfang des 20. Jh. bis ins letzte Detail entworfenen Parkanlage.",
+    "Story_en" : "The western and eastern spring fountains are twin fountains and are unique as a result. They are integral parts of the park designed down to the last detail by Berlin professor Bruno Schmitz in the 20th century.",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "1908",
+    "changedAt" : "19.6.2017, 14:39:40",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "85" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05013083",
+      "longitude" : "8.302356402"
+    },
+    "GisObjectId" : 409,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943455/Ru%CC%88tigassbrunnen_hw27bz.jpg"
+    } ],
+    "LocationDesc_de" : "Innenhof zwischen Rütigasse 1 und 3",
+    "LocationDesc_de_2" : "Rütigasse Innenhof",
+    "LocationDesc_en" : "Inner courtyard between Rütigasse 1 and 3",
+    "Name" : "Rütigassbrunnen",
+    "Name_en" : "Fountain at Rütigasse",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Rütligasse ",
+    "Typ" : "type_springbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:37:39",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "172" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.05918045",
+      "longitude" : "8.29288621"
+    },
+    "GisObjectId" : 288,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496933514/Trogbrunnen_Friedhof_Ost_eivlur.jpg"
+    } ],
+    "LocationDesc_de" : "Friedhof Ost",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Eastern cemetery",
+    "Name" : "Eingangsbrunnen Friedhof Ost ",
+    "Name_en" : "Entry Fountain Eastern Cemetery",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 10:57:44",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "131" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03797659",
+      "longitude" : "8.299949616"
+    },
+    "GisObjectId" : 366,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944136/Scha%CC%88ferwegbrunnen2_xvamhy.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496944213/Scha%CC%88ferwegbrunen3_s6ydvp.jpg"
+    } ],
+    "LocationDesc_de" : "Schäferweg 6",
+    "LocationDesc_de_2" : "Schäferweg Platz",
+    "LocationDesc_en" : "Schäferweg 6",
+    "Name" : "Schäferwegbrunnen",
+    "Name_en" : "Schäferweg Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Schäferweg ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:50:56",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "229" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04522309",
+      "longitude" : "8.347224457"
+    },
+    "GisObjectId" : 322,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943499/Salzfass_Seeburgstrasse1_iy153v.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496943515/Salzfass_Seeburgstrasse3_fdnn42.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Pumpwerk Salzfass,  Seeburgstrasse 77",
+    "LocationDesc_de_2" : "Seeburgstrasse Pumpwerk Salzfass",
+    "LocationDesc_en" : "Waterworks Salzfass, Seeburgstrasse 77",
+    "Name" : "Salzfassbrunnen",
+    "Name_en" : "Salzfass Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Street" : "Seeburgstrasse ",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 19:38:53",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "200" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.06150369",
+      "longitude" : "8.289487619"
+    },
+    "GisObjectId" : 269,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496940745/Trauerweidebrunnen_Friedhof1_pxvjka.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496940744/Trauerweidebrunnen_Friedhof2_b411rd.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496940746/Trauerweidebrunnen_Friedhof3_q3iocx.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496940750/Trauerweidebrunnen_Friedhof4_i5tlio.jpg"
+    } ],
+    "LocationDesc_de" : "Krematorium Süd",
+    "LocationDesc_de_2" : "",
+    "LocationDesc_en" : "Southern crematory",
+    "Name" : "Krematoriumsbrunnen Süd II",
+    "Name_en" : "Southern Crematory Fountain II",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Friedental ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "9.6.2017, 11:05:45",
+    "changedBy" : "jan.miotti@wasserfuerwasser.ch"
+  },
+  "28" : {
+    "Artist" : "",
+    "Desc_de" : "",
+    "Desc_en" : "",
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.051033",
+      "longitude" : "8.302585"
+    },
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496942466/Schwanenbrunnen_Pfistergasse16_nbbiie.jpg"
+    } ],
+    "LocationDesc_de" : "Pfistergasse 16 (im Restaurant)",
+    "LocationDesc_en" : "Pfistergasse 16 (im Restaurant)",
+    "Name" : "Pavarottibrunnen",
+    "Name_en" : "Pavarotti Fountain",
+    "Quality" : "WATER_QUALITY_BAD",
+    "Story_de" : "",
+    "Story_en" : "",
+    "Typ" : "type_zierbrunnen",
+    "Year" : "1595",
+    "changedAt" : "8.6.2017, 19:21:14",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "136" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.04976534",
+      "longitude" : "8.29035053"
+    },
+    "GisObjectId" : 382,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935210/Fo%CC%88rsterbrunnen_Gu%CC%88tsch1_z60vxu.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vor Forsthütte, Gütsch",
+    "LocationDesc_de_2" : "Gütsch Forsthütte",
+    "LocationDesc_en" : "Forest cabin, Gütsch",
+    "Name" : "Försterbrunnen Gütsch",
+    "Name_en" : "Forester Fountain Gütsch",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Gütsch ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:20:34",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  },
+  "146" : {
+    "Enabled" : true,
+    "GeoLocation" : {
+      "latitude" : "47.03691504",
+      "longitude" : "8.314451573"
+    },
+    "GisObjectId" : 371,
+    "Images" : [ {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935727/Heidibrunnen3_rfinyb.jpg"
+    }, {
+      "url" : "https://res.cloudinary.com/lucernewater1/image/upload/v1496935724/Heidibrunnen2_bitnwe.jpg"
+    } ],
+    "LocationDesc_de" : "Platz vis à vis Waldweg 6",
+    "LocationDesc_de_2" : "Waldweg Platz",
+    "LocationDesc_en" : "Square across Waldweg 6",
+    "Name" : "Heidibrunnen",
+    "Name_en" : "Heidi Fountain",
+    "Quality" : "WATER_QUALITY_GOOD",
+    "Street" : "Waldweg ",
+    "Typ" : "FOUNTAIN_TYPE_DRINKING",
+    "Year" : "",
+    "changedAt" : "8.6.2017, 17:29:00",
+    "changedBy" : "lior.etter@wasserfuerwasser.ch"
+  }
+}

@@ -1,0 +1,235 @@
+latitude,longitude,Name,Typ
+47.068041,8.311731,Rotseebrunnen,FOUNTAIN_TYPE_DRINKING
+47.060074,8.324023,Dietschibergbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0570923,8.3220678,Brunnen Adligenswilerstrasse Platz,type_sprudelbrunnen
+47.0546362,8.3317594,Trotteliquaibrunnen,FOUNTAIN_TYPE_DRINKING
+47.058561,8.352698,HochhÃ¼sliweidbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0604,8.3476,Sonnmattbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0498407,8.3410728,General Wagner Brunnen,FOUNTAIN_TYPE_DRINKING
+47.052675,8.304057,LÃ¶wengrabenbrunnen,
+47.0536646,8.3038417,Museggbrunnen,FOUNTAIN_TYPE_DRINKING
+47.050484,8.304022,Gymnasi- oder Jesuitenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.050645,8.304494,LÃ¶wenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0535741,8.3069473,Falknerbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0547003,8.3075603,Spielbrunnen Museggstrasse 20,FOUNTAIN_TYPE_DRINKING
+47.0547691,8.3092108,Schweizerhofbrunnen,FOUNTAIN_TYPE_DRINKING
+47.040414,8.301152,Alter GrÃ¼tterbrunnen,FOUNTAIN_TYPE_DRINKING
+47.040436,8.301807,DrachentÃ¶terbrunnen,FOUNTAIN_TYPE_DRINKING
+47.043927,8.303303,Tellbrunnen,FOUNTAIN_TYPE_DRINKING
+47.045687,8.306508,Bundesplatzbrunnen,FOUNTAIN_TYPE_DRINKING
+47.05116,8.300611,Kasernenplatzbrunnen,FOUNTAIN_TYPE_DRINKING
+47.050903,8.300558,SchÃ¼tzenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.049688,8.301208,Rothausbrunnen,Zierbrunnen
+47.0491962,8.299439,HochbÃ¼hlbrunnen,FOUNTAIN_TYPE_DRINKING
+47.049167,8.300002,Viehmarktbrunnen,FOUNTAIN_TYPE_DRINKING
+47.051198,8.302114,Zeughaus- oder Pfistergassbrunnen,FOUNTAIN_TYPE_DRINKING
+47.050368,8.302556,Chosli,type_zierbrunnen
+47.049442,8.3031856,Marienbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0499473,8.3031456,Franziskusbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0503868,8.30277,Putten- oder KrienbrÃ¼gglibrunnen,FOUNTAIN_TYPE_DRINKING
+47.051033,8.302585,Pavarottibrunnen,type_zierbrunnen
+47.049992,8.306011,Buobenmattbrunnen,type_zierbrunnen
+47.050029,8.306778,Fuchsbrunnen,FOUNTAIN_TYPE_DRINKING
+47.049905,8.307472,Baigneuse-Brunnen,FOUNTAIN_TYPE_DRINKING
+47.041742,8.301838,Taubenhausbrunnen,FOUNTAIN_TYPE_DRINKING
+47.042035,8.303527,Rossbrunnen Pauluskirche,type_zierbrunnen
+47.0420779,8.2997621,Josefbrunnen,type_springbrunnen
+47.04335,8.302276,ReckenbÃ¼hlbrunnen,FOUNTAIN_TYPE_DRINKING
+47.046514,8.309448,Sempacherbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0485685,8.3076153,VÃ¶geligÃ¤rtlibrunnen,FOUNTAIN_TYPE_DRINKING
+47.049437,8.31423,Inseliparkbrunnen,type_sprudelbrunnen
+47.0510699,8.3122607,Wagenbachbrunnen,type_springbrunnen
+47.05077,8.3103174,Torbogenbrunnen,type_sprudelbrunnen
+47.0518068,8.303003,Neptunbrunnen,FOUNTAIN_TYPE_DRINKING
+47.051976,8.3046468,Weinmarktbrunnen,FOUNTAIN_TYPE_DRINKING
+47.052306,8.305089,GÃ¤nsemÃ¤nnchenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.051739,8.305626,Fischbrunnen ,FOUNTAIN_TYPE_DRINKING
+47.0521902,8.3060282,Kornmarktbrunnen,FOUNTAIN_TYPE_DRINKING
+47.052058,8.306498,Am-Rhyn-Brunnen,FOUNTAIN_TYPE_DRINKING
+47.052771,8.306302,Schlosserbrunnen,FOUNTAIN_TYPE_DRINKING
+47.052329,8.307285,Furrengassbrunnen,FOUNTAIN_TYPE_DRINKING
+47.052605,8.3076889,Fritschibrunnen,FOUNTAIN_TYPE_DRINKING
+47.0531441,8.307871,Stiefelbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0542636,8.3084468,Einhornbrunnen,FOUNTAIN_TYPE_DRINKING
+47.054471,8.312713,Westspringbrunnen Platz Nationalquai Musikpavillon,type_zierbrunnen
+47.054545,8.312294,Schweizerofquaibrunnen,FOUNTAIN_TYPE_DRINKING
+47.0545683,8.3135088,Ostspringbrunnen Nationalquai Musikpavillon,type_zierbrunnen
+47.0554083,8.3133072,Stifts- oder Hofbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0548006,8.3159994,Bacchusbrunnen,FOUNTAIN_TYPE_DRINKING
+47.052413,8.305747,Gockelbrunnen,FOUNTAIN_TYPE_DRINKING
+47.05369,8.305882,Mariahilfgassbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0551455,8.3045864,Speuzerbrunnen,FOUNTAIN_TYPE_DRINKING
+47.054408,8.306757,Mariahilfbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0572088,8.3108959,LÃ¶wenplatzbrunnen,FOUNTAIN_TYPE_DRINKING
+47.058277,8.310494,LÃ¶wendenkmalbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0559791,8.3127958,Weybrunnen,FOUNTAIN_TYPE_DRINKING
+47.055746,8.314859,Hofkirchbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0567818,8.3167051,SchÃ¤flibrunnen,FOUNTAIN_TYPE_DRINKING
+47.04717957,8.304379487,Schwanenbrunnen Obergrundstrasse,FOUNTAIN_TYPE_DRINKING
+47.04841513,8.304359831,Privater Brunnenanschluss Stadthauspark,
+47.04819679,8.303978315,Privater Brunnenanschluss,
+47.04845909,8.304130883,Privater Brunnenanschluss,
+47.04713414,8.303455764,MÃ¼hlenbachbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04882,8.30369,Stadthausparkbrunnen II,FOUNTAIN_TYPE_DRINKING
+47.04583973,8.30390904,GrÃ¼tterbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04998404,8.305877461,Privater Brunnenanschluss,
+47.04503,8.30476,Parkbrunnen Obergrundstrasse,FOUNTAIN_TYPE_DRINKING
+47.04963455,8.303813571,Kleiner Franziskanerbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04564994,8.303320325,Gartenanlage Dula Schulhaus,
+47.05016481,8.305162911,Privater Brunnenanschluss,
+47.04484461,8.305042284,Springbrunnen Obergrundstrasse 61,type_springbrunnen
+47.04488951,8.304567934,Brunnen Obergrundstrasse,FOUNTAIN_TYPE_DRINKING
+47.04950669,8.302396686,Privater Brunnenanschluss,
+47.05009477,8.303028546,Privater Brunnenanschluss,
+47.05041023,8.303283166,Privater Brunnenanschluss,Aquarium
+47.04392479,8.306747165,Springbrunnen Bleicherstrasse 17,type_springbrunnen
+47.05071772,8.303488043,Privater Brunnenanschluss,
+47.05013083,8.302356402,RÃ¼tigassbrunnen,type_springbrunnen
+47.0438968,8.306884983,Gussbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04977358,8.301353974,Privater Brunnenanschluss Hotel Rothaus/Klosterstrasse 4,Aquarium
+47.05077071,8.302179469,Privater Brunnenanschluss Innenhof Pfistergasse 15,
+47.05153984,8.304260355,Privater Brunnenanschluss Metzgerrainle,unbekannt
+47.05199274,8.306348739,Privater Brunnenanschluss Braui,
+47.05166443,8.303300472,Schwanenbrunnen,
+47.05208343,8.303755536,Trinkbrunnen,unbekannt
+47.05068475,8.30052362,Privater Brunnenanschluss hirschengraben 53,
+47.05228244,8.304060273,Hofbrunnen RÃ¶ssligasse,FOUNTAIN_TYPE_DRINKING
+47.0524,8.30297,LÃ¶wengrabenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.052254,8.303447776,Privater Brunnenanschluss,unbekannt
+47.05062472,8.300287772,Privater Brunnenanschluss Egli Bestattungen,
+47.05236137,8.304257369,Privater Brunnenanschluss,
+47.05255,8.3048,SÃ¼esswinkelbrunnen,FOUNTAIN_TYPE_DRINKING
+47.05086549,8.300182112,Wandbrunnen von Moos,
+47.05240487,8.302977163,Privater Brunnenanschluss,
+47.05290858,8.30833681,Privater Brunnenanschluss,
+47.05290807,8.308105395,Privater Brunnenanschluss,
+47.05142305,8.299685803,Eckbrunnen Baselstrasse,type_zierbrunnen
+47.0473193,8.297265327,Privater Brunnenanschluss,unbekannt
+47.04187747,8.310535346,Industriestrassenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04146776,8.30306667,Privater Brunnenanschluss,
+47.05373747,8.308117955,Privater Brunnenanschluss Grendelstrasse,
+47.05395887,8.30719605,Hertensteinbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04679013,8.316009422,Alpenquaibrunnen,FOUNTAIN_TYPE_DRINKING
+47.04642896,8.296196678,SÃ¤lihaldebrunnen,type_spielbrunnen
+47.04186279,8.299908575,Steinhof Springbrunnen,type_springbrunnen
+47.05435694,8.309570366,Privater Brunnenanschluss,
+47.0518162,8.297073193,Sentibrunnen,FOUNTAIN_TYPE_DRINKING
+47.0524102,8.297380285,Innenhofbrunnen Baselstrasse,type_zierbrunnen
+47.04355741,8.316018575,RÃ¶sslimattbrunnen,type_zierbrunnen
+47.04071172,8.299938147,Privater Brunnenanschluss,Ziehbrunnen
+47.03953961,8.305116693,Schulhausbrunnen Moosmatt,FOUNTAIN_TYPE_DRINKING
+47.04143644,8.313877202,Privater Brunnenanschluss,unbekannt
+47.03948291,8.304261401,Wandbrunnen Moosmattstrasse,FOUNTAIN_TYPE_DRINKING
+47.0526701,8.296287182,Eisenbahnerbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04639588,8.318689374,SchÃ¶ttibrunnen,FOUNTAIN_TYPE_DRINKING
+47.05109974,8.294459043,GÃ¼tschbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03997071,8.299128073,Privater Brunnenanschluss,
+47.05662037,8.309861786,Fluhmattbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04666654,8.319927758,Bootshafenbrunnen ,type_sprudelbrunnen
+47.04664965,8.292006074,Privater Brunnenanschluss,unbekannt
+47.05594498,8.313863128,Probsteibrunnen,type_zierbrunnen
+47.05364639,8.294558378,Baselstrassebrunnen,FOUNTAIN_TYPE_DRINKING
+47.05350908,8.294287203,Ruckstuhlbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03797659,8.299949616,SchÃ¤ferwegbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03686434,8.306010649,Hubelmattbrunnen,
+47.03671366,8.307296242,Delphinbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03734065,8.300547178,Zimmerwerkbrunnen II,FOUNTAIN_TYPE_DRINKING
+47.03721823,8.300991481,Zimmerwerkbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04976534,8.29035053,FÃ¶rsterbrunnen GÃ¼tsch,FOUNTAIN_TYPE_DRINKING
+47.04989828,8.28997281,Trinkbrunnen,unbekannt
+47.0369527,8.312107131,Sternenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03629043,8.308510604,Spielbrunnen HochrÃ¼tistrasse 5,type_spielbrunnen
+47.05839755,8.310890219,Denkmalweiher,type_weiher
+47.05377663,8.292137211,LÃ¤delibrunnen,FOUNTAIN_TYPE_DRINKING
+47.05792992,8.313489161,Felsbergweiher,type_weiher
+47.03611502,8.302481632,MilitÃ¤rgartenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03765903,8.315495249,Dorfbrunnen,FOUNTAIN_TYPE_DRINKING
+47.05731897,8.316522526,SchÃ¤flibrunnen oder Wandbrunnen,
+47.03691504,8.314451573,Heidibrunnen,FOUNTAIN_TYPE_DRINKING
+47.05840793,8.314100501,Seepferdchenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.05885119,8.313513205,Abendrainbrunnen2,unbekannt
+47.0588399,8.313660489,Zierbrunnen,unbekannt
+47.05941578,8.312711575,Kapuzinerbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0562221,8.292119128,Wandbrunnen St. Karli,type_zierbrunnen
+47.03742691,8.294224329,Privater Brunnenanschluss,
+47.06074753,8.305227261,SÃ¤ulenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04063236,8.323987481,Privater Trinkbrunnen,unbekannt
+47.04053362,8.323800071,Privater Trinkbrunnen,unbekannt
+47.06148186,8.305446721,Fischspringbrunnen Rosenbergstrasse,FOUNTAIN_TYPE_DRINKING
+47.04065532,8.324081789,Privater Brunnenanschluss,unbekannt
+47.03421527,8.299484895,Murmattbrunnen,FOUNTAIN_TYPE_DRINKING
+47.06001503,8.296223705,Friedhofbrunnen Ost III,FOUNTAIN_TYPE_DRINKING
+47.06057574,8.297537114,Friedhofbrunnen Ost II,FOUNTAIN_TYPE_DRINKING
+47.05966041,8.295064344,Friedhofbrunnen Ost,FOUNTAIN_TYPE_DRINKING
+47.06103477,8.29891213,GrÃ¤berhallenbrunnen Ost,type_zierbrunnen
+47.0593679,8.294183623,Friedhofbrunnen Ost,FOUNTAIN_TYPE_DRINKING
+47.04030459,8.324354992,Schulhausbrunnen Wartegg,type_zierbrunnen
+47.05917495,8.29362193,NoName,
+47.06191791,8.308884731,Schulhausbrunnen Maihof,FOUNTAIN_TYPE_DRINKING
+47.05812211,8.291750229,Privater Trinkbrunnen,unbekannt
+47.06085162,8.297334914,Friedhofbrunnen,
+47.06041749,8.295880293,Friedhofshallenbrunnen,type_sprudelbrunnen
+47.05882409,8.292153764,Friedentalbrunnen,FOUNTAIN_TYPE_DRINKING
+47.06084989,8.296944774,Friedhofbrunnen am Ende der Halle,FOUNTAIN_TYPE_DRINKING
+47.05918045,8.29288621,Eingangsbrunnen Friedhof Ost ,FOUNTAIN_TYPE_DRINKING
+47.05973728,8.293238449,Talfriedhofbrunnen,FOUNTAIN_TYPE_DRINKING
+47.05364386,8.285368703,Wandbrunnen Bernstrasse,FOUNTAIN_TYPE_DRINKING
+47.05991681,8.292521888,Friedhofbrunnen,
+47.06031724,8.293117371,NoName,
+47.04882,8.30392,Stadthausparkbrunnen,FOUNTAIN_TYPE_DRINKING
+47.04660691,8.282966305,Trinkbrunnen Reservoir GÃ¼tsch,unbekannt
+47.06032091,8.292156808,Friedhofbrunnen,
+47.03379923,8.294324338,Privater Brunnenanschluss,unbekannt
+47.0544402,8.327193154,Privater Zierbrunnen,unbekannt
+47.03310389,8.295791487,Privater Brunnenanschluss,
+47.03478957,8.291546608,Privater Brunnenanschluss,
+47.06006767,8.29098544,Friedhofbrunnen,
+47.03579896,8.289454992,Privater Brunnenanschluss,
+47.03429402,8.291811092,Privater Brunnenanschluss,Ziehbrunnen
+47.0349239,8.290343654,Privater Brunnenanschluss,
+47.06105768,8.291902855,Friedhofbrunnen,
+47.06416139,8.305977886,Libellenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0639778,8.310680837,Maihofbrunnen,FOUNTAIN_TYPE_DRINKING
+47.06087679,8.291121197,Friedhofbrunnen West,FOUNTAIN_TYPE_DRINKING
+47.03253195,8.294659781,Privater Brunnenanschluss,
+47.03541,8.3245,Relibrunnen,type_zierbrunnen
+47.06464938,8.305300295,Holzbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03430943,8.290059132,Privater Brunnenanschluss,
+47.0521367,8.280970507,Balz-Camenzind-Brunnen,type_zierbrunnen
+47.06313167,8.318497875,Zwyssigplatzbrunnen,FOUNTAIN_TYPE_DRINKING
+47.06155825,8.289734879,Krematoriumsbrunnen SÃ¼d,type_zierbrunnen
+47.06188187,8.290321219,Krematoriumsbrunnen Ost III,FOUNTAIN_TYPE_DRINKING
+47.06150369,8.289487619,Krematoriumsbrunnen SÃ¼d II,FOUNTAIN_TYPE_DRINKING
+47.03367616,8.288984897,Privater Brunnenanschluss,
+47.06176415,8.289786526,Krematoriumsbrunnen Ost,FOUNTAIN_TYPE_DRINKING
+47.0620752,8.290426589,Krematoriumsbrunnen Ost II,FOUNTAIN_TYPE_DRINKING
+47.06143277,8.289268984,Krematoriumsbrunnen SÃ¼d,FOUNTAIN_TYPE_DRINKING
+47.06148823,8.289063539,Friedhofbrunnen123,
+47.06184679,8.289749455,Krematoriumsbrunnen Ost V,FOUNTAIN_TYPE_DRINKING
+47.03902439,8.329710127,Privater Brunnenanschluss,
+47.06201821,8.290091181,Krematoriumsbrunnen Ost IV,FOUNTAIN_TYPE_DRINKING
+47.06166937,8.28895201,Krematoriumsbrunnen West,FOUNTAIN_TYPE_DRINKING
+47.03548119,8.285557032,Privater Brunnenanschluss,
+47.03533103,8.28462879,Privater Brunnenanschluss,
+47.03363708,8.286335306,Privater Brunnenanschluss,
+47.06731874,8.312114159,Privater Trinkbrunnen,unbekannt
+47.06454917,8.322086202,Gartenheimbrunnen,type_sprudelbrunnen
+47.03314844,8.327346365,Gartenhydrant,unbekannt
+47.02700951,8.304960738,Schrebergartenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.03202413,8.286133053,Privater Brunnenanschluss,
+47.06793267,8.31431124,Rotseewaldbrunnen,unbekannt
+47.0352893,8.280472252,Privater Brunnenanschluss,
+47.03341415,8.282557606,Privater Brunnenanschluss,
+47.03361114,8.27934272,Privater Brunnenanschluss,
+47.0329967,8.278407034,Privater Brunnenanschluss,
+47.06536195,8.282532147,Dorfbrunnen ReussbÃ¼hl,FOUNTAIN_TYPE_DRINKING
+47.03432403,8.275383381,Privater Brunnenanschluss,unbekannt
+47.03464573,8.274871982,Privater Brunnenanschluss,unbekannt
+47.05450906,8.341306828,Runenbrunnen,FOUNTAIN_TYPE_DRINKING
+47.0347425,8.270696646,Privater Brunnenanschluss,
+47.03155133,8.27257851,Privater Brunnenanschluss,
+47.04522309,8.347224457,Salzfassbrunnen,type_zierbrunnen
+47.05076087,8.265093418,Spielbrunnen Mattstrasse 13,FOUNTAIN_TYPE_DRINKING
+47.03255989,8.269457427,Privater Brunnenanschluss,
+47.03186205,8.267854976,Privater Brunnenanschluss,unbekannt
+47.05103325,8.25881129,Dorfbrunnen Littau,FOUNTAIN_TYPE_DRINKING
