@@ -18,14 +18,14 @@ Jedes dict hat die Kategorien:
 
 ## Scripts:
 ##### to_wikidata.py:
-Dieses Script liest die Daten ein und gibt sie als wikidata-quickstatements aus. Diese kann man nun auf dieser [Seite](https://tools.wmflabs.org/wikidata-todo/quick_statements.php) ausführen lassen um neue Wikidata Objecte zu erstellen.
+Dieses Script liest die Daten ein und gibt sie als wikidata-quickstatements aus. Diese kann man nun auf dieser [Seite](https://tools.wmflabs.org/wikidata-todo/quick_statements.php) ausführen lassen, um neue Wikidata Objekte zu erstellen.
 
 ##### to_xml.py:
 Dieses Script liest die Daten ein und gibt sie als xml aus. Dieses XML kann mit JOSM geöffnet und dann nach OSM hochgeladen werden.
 
 #### Wichtig:
-* JOSM: um die OSM Daten hochzuladen muss man die version 15322. Mit neueren Versionen ist dies eventuell nicht möglich.
-* Vor dem ausführen der beiden Scripts wurde nach Duplikaten mit Hilfe von QGIS (mit dem QuickOSM Plugin) gesucht und die Scripts entsprechen angepasst. Diese Filter wurden wieder entfernt.
+* JOSM: um die OSM Daten hochzuladen muss man die version 15322 haben. Mit neueren Versionen ist dies eventuell nicht möglich.
+* Vor dem ausführen der beiden Scripts wurde nach Duplikaten mit Hilfe von QGIS (mit dem QuickOSM Plugin) gesucht (hierbei kann man die Daten in QGIS laden und mit hilfe von dem Plugin eine Abfrage erstellen, die alle Momentan eingetragenen in ein neues Layer lädt. Danach reicht eine weitere Abfrage um die überlappenden Einträge zu finden) und die Scripts entsprechend angepasst. Diese Filter wurden wieder entfernt.
 
 
 #### Sonstiges:
